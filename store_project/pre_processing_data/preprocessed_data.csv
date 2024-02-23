@@ -196,6 +196,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 77201682023,266864,2018-06-03,Mens,Clothing,5,1107,581.175,6116.175,e-Shop
 32670460485,266865,2016-02-21,Personal Appliances,Electronics,2,1427,299.67,3153.67,e-Shop
 17234731921,266865,2016-05-18,Mens,Footwear,3,1407,443.205,4664.205,TeleShop
+17237928075,266865,2017-02-10,Furnishing,Home and kitchen,5,1466,769.65,8099.65,e-Shop
 5987134194,266865,2017-08-11,Mens,Bags,4,265,111.3,1171.3,e-Shop
 52811789495,266865,2017-11-08,Personal Appliances,Electronics,1,1169,122.745,1291.745,e-Shop
 30856003613,266866,2016-01-25,Mens,Footwear,2,444,93.24,981.24,TeleShop
@@ -387,6 +388,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 7770860976,266956,2018-02-16,Electric appliances,Home and kitchen,4,834,350.28,3686.28,Brick and Mortar
 68064231519,266956,2018-08-05,Home Decoratives,Home and kitchen,2,1241,260.61,2742.61,Brick and Mortar
 38500387120,266957,2018-02-06,DIY,Books,4,713,299.46,3151.46,e-Shop
+71900965128,266957,2018-05-16,Mens,Clothing,5,1474,773.85,8143.85,Brick and Mortar
 94987094592,266957,2018-11-06,Women,Footwear,1,165,17.325,182.325,e-Shop
 61280558032,266958,2016-04-19,Non-fiction,Books,5,742,389.55,4099.55,Brick and Mortar
 49982032355,266958,2018-09-03,Mens,Bags,5,559,293.475,3088.475,Brick and Mortar
@@ -488,6 +490,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 22892369070,267014,2018-11-24,Home Decoratives,Home and kitchen,4,439,184.38,1940.38,TeleShop
 47262577429,267015,2017-02-16,Academic,Books,1,1199,125.895,1324.895,TeleShop
 37312852491,267015,2017-07-19,Kids,Footwear,1,789,82.845,871.845,TeleShop
+72568516169,267015,2018-06-23,Personal Appliances,Electronics,5,1460,766.5,8066.5,Brick and Mortar
 91490971053,267016,2016-06-24,Mens,Footwear,3,320,100.8,1060.8,Brick and Mortar
 56587558610,267016,2017-04-08,Home Decoratives,Home and kitchen,4,807,338.94,3566.94,e-Shop
 8850460148,267016,2017-12-10,Cameras,Electronics,1,329,34.545,363.545,e-Shop
@@ -501,6 +504,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 94370362399,267017,2018-07-23,Home Decoratives,Home and kitchen,3,231,72.765,765.765,TeleShop
 42236474012,267018,2016-03-25,Kids,Footwear,2,799,167.79,1765.79,TeleShop
 12638497620,267018,2018-05-26,Women,Clothing,2,227,47.67,501.67,TeleShop
+84031996156,267019,2016-10-12,Electric appliances,Home and kitchen,5,1482,778.05,8188.05,Brick and Mortar
 80537911471,267019,2017-04-04,Kids,Books,5,490,257.25,2707.25,TeleShop
 9492387479,267019,2018-08-23,Electric appliances,Home and kitchen,1,546,57.33,603.33,e-Shop
 36082665361,267019,2018-11-16,Women,Footwear,3,733,230.895,2429.895,e-Shop
@@ -839,6 +843,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 19312855774,267169,2017-08-22,Non-fiction,Books,2,1015,213.15,2243.15,Brick and Mortar
 70609196640,267169,2018-07-03,Personal Appliances,Electronics,1,722,75.81,797.81,e-Shop
 74678176786,267170,2016-04-08,Academic,Books,3,358,112.77,1186.77,TeleShop
+28031617166,267170,2017-12-17,Personal Appliances,Electronics,5,1467,770.175,8105.175,Brick and Mortar
 68386782151,267172,2016-12-18,Women,Footwear,5,470,246.75,2596.75,TeleShop
 91048852029,267172,2017-01-03,DIY,Books,3,946,297.99,3135.99,TeleShop
 59046108182,267172,2017-02-24,Electric appliances,Home and kitchen,3,1286,405.09,4263.09,Brick and Mortar
@@ -1088,6 +1093,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 83751167796,267266,2018-12-01,Kids,Clothing,4,1299,545.58,5741.58,e-Shop
 7306462692,267266,2018-12-08,Kids,Books,2,1230,258.3,2718.3,Brick and Mortar
 8007742845,267268,2016-02-14,Cameras,Electronics,2,282,59.22,623.22,Brick and Mortar
+53726738152,267268,2017-03-26,Fiction,Books,5,1494,784.35,8254.35,Brick and Mortar
 51012356412,267268,2018-03-10,Women,Bags,3,601,189.315,1992.315,TeleShop
 97336003928,267268,2018-10-05,Cameras,Electronics,1,184,19.32,203.32,e-Shop
 5419035611,267269,2016-01-07,Kids,Footwear,2,647,135.87,1429.87,e-Shop
@@ -1144,6 +1150,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 54410826575,267293,2017-08-24,Furnishing,Home and kitchen,3,116,36.54,384.54,e-Shop
 91283781738,267293,2018-02-27,Women,Footwear,4,1204,505.68,5321.68,e-Shop
 98709585932,267293,2018-04-01,Home Decoratives,Home and kitchen,3,1066,335.79,3533.79,Brick and Mortar
+42231401812,267293,2018-06-12,Mens,Footwear,5,1488,781.2,8221.2,TeleShop
 24680941257,267293,2018-11-02,Home Decoratives,Home and kitchen,4,283,118.86,1250.86,e-Shop
 23220803534,267294,2017-08-16,Fiction,Books,3,1248,393.12,4137.12,e-Shop
 56668572183,267294,2018-08-17,Non-fiction,Books,3,1154,363.51,3825.51,e-Shop
@@ -1185,6 +1192,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 20704065937,267316,2016-03-11,Cameras,Electronics,1,827,86.835,913.835,TeleShop
 4462806556,267316,2016-05-06,Kids,Clothing,3,1093,344.295,3623.295,Brick and Mortar
 99004419453,267316,2018-07-22,Audio and video,Electronics,1,660,69.3,729.3,TeleShop
+12585151245,267316,2018-09-17,Audio and video,Electronics,5,1460,766.5,8066.5,Brick and Mortar
 9044824427,267316,2018-10-14,Women,Clothing,4,1386,582.12,6126.12,Brick and Mortar
 84028807748,267317,2016-06-15,Mobiles,Electronics,1,353,37.065,390.065,e-Shop
 69287699424,267317,2016-08-22,Women,Clothing,4,826,346.92,3650.92,Brick and Mortar
@@ -1220,6 +1228,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 52465091003,267325,2018-07-28,Bedding and Towels,Home and kitchen,1,1490,156.45,1646.45,e-Shop
 79323828565,267325,2018-08-18,Bedding and Towels,Home and kitchen,1,101,10.605,111.605,Brick and Mortar
 14325869491,267326,2017-01-09,Electric appliances,Home and kitchen,5,414,217.35,2287.35,TeleShop
+5374669897,267326,2017-06-05,Bedding and Towels,Home and kitchen,5,1468,770.7,8110.7,Brick and Mortar
 23141058884,267326,2017-07-26,Computers,Electronics,3,981,309.015,3252.015,e-Shop
 17564185522,267327,2016-07-07,Computers,Electronics,1,530,55.65,585.65,e-Shop
 28276692571,267327,2017-08-06,Women,Bags,2,592,124.32,1308.32,e-Shop
@@ -1417,6 +1426,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 83756738738,267413,2017-07-21,Kids,Clothing,2,1015,213.15,2243.15,Brick and Mortar
 78542249387,267413,2018-09-12,Women,Clothing,3,364,114.66,1206.66,Brick and Mortar
 7363731308,267414,2016-03-23,Personal Appliances,Electronics,2,923,193.83,2039.83,Brick and Mortar
+56331319613,267414,2016-03-28,DIY,Books,5,1498,786.45,8276.45,e-Shop
 618433640,267414,2016-12-19,Kids,Footwear,5,1257,659.925,6944.925,Brick and Mortar
 92169228421,267414,2017-11-18,Mobiles,Electronics,3,1396,439.74,4627.74,Brick and Mortar
 99761498157,267415,2016-08-18,Kids,Clothing,2,74,15.54,163.54,e-Shop
@@ -1612,6 +1622,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 96882379393,267490,2018-03-16,Kids,Clothing,1,497,52.185,549.185,e-Shop
 35896383575,267490,2018-12-09,DIY,Books,3,349,109.935,1156.935,TeleShop
 65500753711,267492,2016-10-10,Kids,Footwear,5,455,238.875,2513.875,e-Shop
+88433403734,267492,2018-05-05,Home Decoratives,Home and kitchen,5,1487,780.675,8215.675,e-Shop
 28503820917,267497,2016-05-22,Mens,Clothing,5,1268,665.7,7005.7,TeleShop
 4348162824,267497,2016-08-11,Academic,Books,2,461,96.81,1018.81,Brick and Mortar
 88974243898,267497,2016-11-13,Kids,Books,3,1027,323.505,3404.505,Brick and Mortar
@@ -1634,6 +1645,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 76237133211,267503,2017-08-10,Computers,Electronics,3,775,244.125,2569.125,e-Shop
 48862881472,267503,2018-08-26,Home Decoratives,Home and kitchen,1,898,94.29,992.29,e-Shop
 6409679426,267504,2017-04-29,Kids,Footwear,1,70,7.35,77.35,TeleShop
+74377676559,267504,2017-08-25,Audio and video,Electronics,5,1453,762.825,8027.825,e-Shop
 94551174560,267504,2018-03-31,Women,Bags,4,914,383.88,4039.88,TeleShop
 48445867691,267504,2018-08-08,Furnishing,Home and kitchen,3,925,291.375,3066.375,e-Shop
 56153494829,267504,2018-10-18,Mens,Footwear,5,1291,677.775,7132.775,Brick and Mortar
@@ -1779,6 +1791,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 8131501622,267580,2017-11-10,Bedding and Towels,Home and kitchen,1,1294,135.87,1429.87,TeleShop
 65270989002,267583,2017-05-30,Kids,Books,5,596,312.9,3292.9,TeleShop
 95777355679,267583,2017-07-15,Mens,Footwear,3,1500,472.5,4972.5,Brick and Mortar
+4572080426,267583,2018-11-30,Women,Clothing,5,1476,774.9,8154.9,Brick and Mortar
 75693409318,267585,2018-04-17,Mens,Clothing,2,408,85.68,901.68,e-Shop
 59916446688,267586,2016-11-18,Home Decoratives,Home and kitchen,2,1483,311.43,3277.43,e-Shop
 76624507638,267586,2017-03-01,Cameras,Electronics,2,639,134.19,1412.19,Brick and Mortar
@@ -1793,6 +1806,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 94174237977,267589,2016-08-30,Kids,Books,5,1396,732.9,7712.9,Brick and Mortar
 14698441592,267592,2018-05-02,Kids,Books,3,1359,428.085,4505.085,Brick and Mortar
 28345780851,267592,2018-05-23,Kids,Footwear,5,146,76.65,806.65,e-Shop
+37760061580,267592,2018-05-31,Mens,Footwear,5,1461,767.025,8072.025,e-Shop
 54756656305,267592,2018-09-15,Mens,Footwear,3,1029,324.135,3411.135,Brick and Mortar
 32246030031,267594,2016-10-18,Electric appliances,Home and kitchen,5,772,405.3,4265.3,e-Shop
 72220966582,267594,2016-11-14,Mens,Footwear,5,549,288.225,3033.225,e-Shop
@@ -1897,6 +1911,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 16021693493,267633,2017-07-20,Cameras,Electronics,1,1242,130.41,1372.41,Brick and Mortar
 25414653571,267634,2018-04-09,Computers,Electronics,5,1104,579.6,6099.6,e-Shop
 93241168894,267634,2018-04-13,Kids,Footwear,4,318,133.56,1405.56,e-Shop
+67020348167,267634,2018-07-08,Bedding and Towels,Home and kitchen,5,1458,765.45,8055.45,e-Shop
 45601326313,267634,2018-09-19,Home Decoratives,Home and kitchen,5,1383,726.075,7641.075,TeleShop
 84614804366,267634,2018-10-23,Kids,Books,4,1389,583.38,6139.38,e-Shop
 83173941005,267635,2018-08-28,Non-fiction,Books,4,693,291.06,3063.06,Brick and Mortar
@@ -2287,6 +2302,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 11129422308,267792,2018-05-14,Mobiles,Electronics,4,1281,538.02,5662.02,e-Shop
 22300555249,267792,2018-06-22,DIY,Books,2,998,209.58,2205.58,Brick and Mortar
 64425943945,267792,2018-09-15,Women,Footwear,3,869,273.735,2880.735,Brick and Mortar
+81546836655,267792,2018-10-21,Computers,Electronics,5,1456,764.4,8044.4,e-Shop
 97013888577,267792,2018-11-21,Academic,Books,2,1045,219.45,2309.45,TeleShop
 14909431266,267793,2017-12-24,Computers,Electronics,2,1159,243.39,2561.39,Brick and Mortar
 23922732093,267793,2018-01-27,Kids,Footwear,3,1252,394.38,4150.38,TeleShop
@@ -2518,6 +2534,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 8772561024,267898,2016-04-10,Cameras,Electronics,3,608,191.52,2015.52,e-Shop
 55851279599,267898,2017-03-03,Non-fiction,Books,1,1306,137.13,1443.13,Brick and Mortar
 33782293975,267898,2017-03-21,DIY,Books,1,1006,105.63,1111.63,e-Shop
+15103708771,267898,2018-06-30,Mens,Clothing,5,1472,772.8,8132.8,TeleShop
 7341582073,267898,2018-10-01,Mens,Bags,5,1302,683.55,7193.55,e-Shop
 50127823488,267901,2016-03-16,Mens,Clothing,2,1045,219.45,2309.45,e-Shop
 27783677516,267901,2017-07-06,Audio and video,Electronics,1,918,96.39,1014.39,TeleShop
@@ -2549,6 +2566,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 97831485514,267910,2018-10-15,Electric appliances,Home and kitchen,3,1204,379.26,3991.26,Brick and Mortar
 10413655252,267912,2018-05-07,Mobiles,Electronics,5,991,520.275,5475.275,e-Shop
 63695031353,267912,2018-12-25,Furnishing,Home and kitchen,1,909,95.445,1004.445,Brick and Mortar
+66194755238,267913,2016-04-10,Furnishing,Home and kitchen,5,1456,764.4,8044.4,e-Shop
 84079805861,267913,2016-04-21,Non-fiction,Books,2,1364,286.44,3014.44,e-Shop
 58646471434,267913,2016-12-06,Cameras,Electronics,1,118,12.39,130.39,e-Shop
 83893374456,267913,2017-12-02,Women,Bags,3,109,34.335,361.335,e-Shop
@@ -2618,6 +2636,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 80633249807,267940,2016-12-07,Kids,Books,4,1103,463.26,4875.26,TeleShop
 6135881155,267942,2017-08-23,Audio and video,Electronics,1,303,31.815,334.815,e-Shop
 80075837949,267942,2017-10-05,Non-fiction,Books,3,1163,366.345,3855.345,TeleShop
+72697735071,267943,2016-06-26,Personal Appliances,Electronics,5,1454,763.35,8033.35,TeleShop
 26578177442,267943,2017-05-18,Cameras,Electronics,4,1003,421.26,4433.26,e-Shop
 87957780732,267943,2017-07-08,Furnishing,Home and kitchen,5,221,116.025,1221.025,TeleShop
 38669144928,267943,2017-10-26,Computers,Electronics,5,1087,570.675,6005.675,TeleShop
@@ -2665,6 +2684,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 12738962999,267972,2016-05-03,Home Decoratives,Home and kitchen,2,1181,248.01,2610.01,Brick and Mortar
 21916317622,267972,2018-03-08,Kids,Books,1,532,55.86,587.86,Brick and Mortar
 57378573240,267972,2018-10-14,Mens,Bags,3,184,57.96,609.96,e-Shop
+39982042379,267974,2017-02-27,Women,Bags,5,1459,765.975,8060.975,TeleShop
 99837614843,267974,2017-10-16,DIY,Books,5,601,315.525,3320.525,TeleShop
 10468018085,267974,2017-12-21,Women,Bags,5,1381,725.025,7630.025,Brick and Mortar
 23653879454,267974,2018-12-21,Mens,Footwear,4,199,83.58,879.58,e-Shop
@@ -2952,6 +2972,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 59732825193,268086,2018-07-02,Mens,Clothing,4,1287,540.54,5688.54,TeleShop
 71874191772,268087,2017-04-25,Electric appliances,Home and kitchen,3,626,197.19,2075.19,TeleShop
 61750654054,268087,2017-06-18,Mens,Clothing,1,1205,126.525,1331.525,TeleShop
+11485449093,268087,2018-11-01,Home Decoratives,Home and kitchen,5,1466,769.65,8099.65,e-Shop
 1300892127,268089,2017-02-10,Kids,Clothing,1,1354,142.17,1496.17,Brick and Mortar
 37329406117,268089,2017-06-24,DIY,Books,2,340,71.4,751.4,TeleShop
 85029727036,268089,2018-02-23,Electric appliances,Home and kitchen,1,221,23.205,244.205,e-Shop
@@ -3002,6 +3023,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 68330818234,268106,2018-11-09,Cameras,Electronics,2,1007,211.47,2225.47,e-Shop
 90792215814,268107,2016-06-24,Mens,Clothing,3,1388,437.22,4601.22,Brick and Mortar
 86762676269,268107,2016-07-22,Fiction,Books,3,1009,317.835,3344.835,e-Shop
+54592518522,268107,2016-08-04,Fiction,Books,5,1480,777.0,8177.0,TeleShop
 23563663438,268107,2016-09-12,Women,Clothing,3,266,83.79,881.79,TeleShop
 35197854343,268107,2017-07-27,Electric appliances,Home and kitchen,3,493,155.295,1634.295,e-Shop
 83432480710,268108,2016-07-07,Women,Footwear,2,1142,239.82,2523.82,Brick and Mortar
@@ -3215,6 +3237,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 20159118464,268204,2018-05-19,Home Decoratives,Home and kitchen,5,542,284.55,2994.55,e-Shop
 44670602974,268205,2017-02-03,Mobiles,Electronics,3,844,265.86,2797.86,TeleShop
 65645854469,268205,2017-10-08,Kids,Books,2,1183,248.43,2614.43,TeleShop
+59308635445,268205,2018-01-03,Personal Appliances,Electronics,5,1496,785.4,8265.4,e-Shop
 80990197345,268207,2016-05-17,Fiction,Books,4,442,185.64,1953.64,Brick and Mortar
 16997424349,268207,2016-10-28,Furnishing,Home and kitchen,3,372,117.18,1233.18,Brick and Mortar
 31378350524,268207,2016-11-25,Cameras,Electronics,3,871,274.365,2887.365,e-Shop
@@ -3249,6 +3272,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 87473332637,268225,2016-04-17,Fiction,Books,2,1287,270.27,2844.27,Brick and Mortar
 89022997199,268225,2018-04-08,Fiction,Books,2,823,172.83,1818.83,Brick and Mortar
 20276838220,268225,2018-08-07,Bedding and Towels,Home and kitchen,5,203,106.575,1121.575,e-Shop
+54408133489,268226,2017-05-01,Audio and video,Electronics,5,1466,769.65,8099.65,Brick and Mortar
 72466191339,268226,2017-12-17,Mens,Footwear,2,572,120.12,1264.12,e-Shop
 63500476342,268226,2018-03-03,Kids,Books,5,804,422.1,4442.1,Brick and Mortar
 14715233388,268228,2017-01-15,Furnishing,Home and kitchen,1,464,48.72,512.72,e-Shop
@@ -3259,6 +3283,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 12147260074,268229,2017-08-03,Academic,Books,5,138,72.45,762.45,e-Shop
 31407833077,268229,2017-12-27,Electric appliances,Home and kitchen,4,928,389.76,4101.76,Brick and Mortar
 89098638617,268231,2016-04-24,Women,Bags,3,224,70.56,742.56,TeleShop
+234608322,268231,2017-05-23,Bedding and Towels,Home and kitchen,5,1487,780.675,8215.675,e-Shop
 45553356358,268232,2016-09-02,Academic,Books,1,78,8.19,86.19,Brick and Mortar
 37695586113,268232,2016-09-10,Non-fiction,Books,4,598,251.16,2643.16,TeleShop
 93255195803,268232,2018-09-08,Fiction,Books,5,982,515.55,5425.55,Brick and Mortar
@@ -3420,6 +3445,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 29101383298,268317,2016-07-13,Electric appliances,Home and kitchen,5,708,371.7,3911.7,Brick and Mortar
 93258733520,268317,2016-09-15,Mobiles,Electronics,2,1313,275.73,2901.73,TeleShop
 35734260832,268317,2016-11-19,Computers,Electronics,5,283,148.575,1563.575,Brick and Mortar
+78084152129,268317,2017-02-19,Kids,Books,5,1473,773.325,8138.325,TeleShop
 19178571083,268319,2017-07-19,Kids,Clothing,4,730,306.6,3226.6,e-Shop
 11345319006,268319,2017-10-13,Women,Clothing,5,1385,727.125,7652.125,TeleShop
 92596255790,268319,2018-04-27,Cameras,Electronics,5,236,123.9,1303.9,Brick and Mortar
@@ -3504,6 +3530,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 25099988473,268348,2016-02-09,Academic,Books,3,1427,449.505,4730.505,e-Shop
 6869666768,268348,2016-05-25,Computers,Electronics,3,1028,323.82,3407.82,TeleShop
 9861709989,268348,2017-05-20,Mens,Footwear,1,605,63.525,668.525,e-Shop
+28585981586,268348,2017-07-13,Non-fiction,Books,5,1466,769.65,8099.65,TeleShop
 20332354867,268348,2018-09-23,DIY,Books,5,1386,727.65,7657.65,TeleShop
 94615705938,268350,2017-09-29,Kids,Footwear,5,1248,655.2,6895.2,TeleShop
 86897030825,268350,2018-07-08,Kids,Footwear,5,976,512.4,5392.4,Brick and Mortar
@@ -3692,6 +3719,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 26669511816,268430,2017-05-11,Mobiles,Electronics,5,635,333.375,3508.375,Brick and Mortar
 81409575774,268430,2018-01-27,Bedding and Towels,Home and kitchen,2,1309,274.89,2892.89,e-Shop
 34245128819,268430,2018-02-17,Women,Clothing,1,971,101.955,1072.955,Brick and Mortar
+17861758221,268430,2018-07-07,Women,Bags,5,1495,784.875,8259.875,e-Shop
 5928250764,268431,2017-08-09,Mens,Clothing,3,188,59.22,623.22,e-Shop
 67246713922,268431,2017-12-06,Home Decoratives,Home and kitchen,5,1325,695.625,7320.625,Brick and Mortar
 36226173584,268431,2018-07-01,Electric appliances,Home and kitchen,5,479,251.475,2646.475,TeleShop
@@ -3706,6 +3734,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 58125944124,268436,2018-02-13,Women,Clothing,2,627,131.67,1385.67,Brick and Mortar
 30138186915,268436,2018-12-18,Kids,Clothing,5,842,442.05,4652.05,e-Shop
 95342769136,268438,2016-11-27,Kids,Clothing,5,1188,623.7,6563.7,Brick and Mortar
+12830826558,268438,2017-08-09,Kids,Clothing,5,1493,783.825,8248.825,TeleShop
 556211063,268438,2018-11-04,Bedding and Towels,Home and kitchen,1,337,35.385,372.385,e-Shop
 65202497925,268438,2018-11-14,DIY,Books,4,1216,510.72,5374.72,Brick and Mortar
 91436828664,268440,2016-01-06,Computers,Electronics,1,1194,125.37,1319.37,e-Shop
@@ -3742,6 +3771,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 11254489463,268456,2017-10-15,DIY,Books,5,676,354.9,3734.9,Brick and Mortar
 91657993381,268456,2018-04-07,Women,Clothing,3,531,167.265,1760.265,e-Shop
 47303097322,268456,2018-04-10,Kids,Books,1,1159,121.695,1280.695,e-Shop
+32673378480,268457,2017-03-31,Kids,Books,5,1480,777.0,8177.0,TeleShop
 24700869618,268457,2018-06-11,Kids,Footwear,4,807,338.94,3566.94,e-Shop
 99018582138,268457,2018-06-30,Mens,Footwear,5,920,483.0,5083.0,Brick and Mortar
 84098842565,268458,2016-07-11,Electric appliances,Home and kitchen,2,533,111.93,1177.93,e-Shop
@@ -3790,10 +3820,12 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 23369831920,268478,2018-08-11,Kids,Clothing,1,1354,142.17,1496.17,e-Shop
 48867492708,268479,2016-04-24,Kids,Footwear,1,1018,106.89,1124.89,e-Shop
 23682042594,268479,2016-05-09,Bedding and Towels,Home and kitchen,5,874,458.85,4828.85,e-Shop
+40800404578,268479,2017-06-23,Cameras,Electronics,5,1468,770.7,8110.7,e-Shop
 94962616292,268479,2017-09-11,Bedding and Towels,Home and kitchen,2,901,189.21,1991.21,e-Shop
 11767056782,268479,2018-11-03,Computers,Electronics,3,1290,406.35,4276.35,Brick and Mortar
 72390893036,268480,2018-06-27,Mens,Bags,2,135,28.35,298.35,e-Shop
 13099444177,268480,2018-07-15,Women,Bags,5,460,241.5,2541.5,Brick and Mortar
+77290177333,268481,2016-03-25,Mens,Bags,5,1467,770.175,8105.175,TeleShop
 60222247799,268481,2016-06-13,DIY,Books,2,1446,303.66,3195.66,TeleShop
 66274283712,268481,2017-11-03,Electric appliances,Home and kitchen,2,727,152.67,1606.67,Brick and Mortar
 18647938468,268481,2018-03-26,Audio and video,Electronics,3,899,283.185,2980.185,e-Shop
@@ -3819,6 +3851,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 89285035990,268487,2016-02-02,Mens,Clothing,4,850,357.0,3757.0,e-Shop
 2174946764,268487,2016-06-12,Kids,Books,2,1096,230.16,2422.16,Brick and Mortar
 99165167802,268487,2017-05-20,Kids,Books,5,487,255.675,2690.675,Brick and Mortar
+63114610255,268488,2016-05-08,Cameras,Electronics,5,1475,774.375,8149.375,Brick and Mortar
 8174577217,268488,2016-10-27,Women,Clothing,5,506,265.65,2795.65,Brick and Mortar
 7255475213,268488,2017-04-20,Cameras,Electronics,5,158,82.95,872.95,Brick and Mortar
 3576694813,268489,2017-06-17,Mens,Footwear,1,858,90.09,948.09,Brick and Mortar
@@ -4144,6 +4177,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 94023371783,268609,2018-06-27,Mens,Bags,3,1160,365.4,3845.4,e-Shop
 74412873830,268609,2018-07-06,Kids,Footwear,4,633,265.86,2797.86,TeleShop
 1247546663,268612,2016-07-18,Audio and video,Electronics,2,631,132.51,1394.51,Brick and Mortar
+72502585661,268612,2017-02-08,Mobiles,Electronics,5,1461,767.025,8072.025,Brick and Mortar
 86786272549,268612,2017-04-21,Kids,Footwear,1,1030,108.15,1138.15,e-Shop
 90566626691,268612,2017-06-14,Women,Bags,5,1361,714.525,7519.525,e-Shop
 4629206829,268612,2017-08-28,Bedding and Towels,Home and kitchen,4,365,153.3,1613.3,TeleShop
@@ -4296,6 +4330,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 83985060295,268669,2017-11-03,Kids,Clothing,4,1478,620.76,6532.76,Brick and Mortar
 43966406232,268669,2018-08-05,Furnishing,Home and kitchen,2,900,189.0,1989.0,e-Shop
 99534082916,268669,2018-09-15,Women,Footwear,3,1033,325.395,3424.395,Brick and Mortar
+12711236844,268669,2018-11-26,Bedding and Towels,Home and kitchen,5,1472,772.8,8132.8,e-Shop
 92393554623,268670,2016-06-22,Mens,Footwear,3,340,107.1,1127.1,TeleShop
 28554557674,268670,2016-09-23,Kids,Books,3,1065,335.475,3530.475,e-Shop
 42498831319,268670,2016-10-23,Non-fiction,Books,5,740,388.5,4088.5,TeleShop
@@ -4517,6 +4552,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 69213564404,268765,2017-09-05,Audio and video,Electronics,4,1278,536.76,5648.76,e-Shop
 19000643799,268765,2017-09-30,Home Decoratives,Home and kitchen,3,204,64.26,676.26,TeleShop
 82361501265,268765,2017-10-29,Mobiles,Electronics,5,1034,542.85,5712.85,Brick and Mortar
+60180674317,268767,2016-06-19,Kids,Clothing,5,1458,765.45,8055.45,Brick and Mortar
 401206255,268767,2016-12-07,Mens,Footwear,5,182,95.55,1005.55,Brick and Mortar
 3129347645,268767,2018-02-23,Women,Bags,5,642,337.05,3547.05,Brick and Mortar
 32979702955,268767,2018-08-12,Fiction,Books,2,989,207.69,2185.69,Brick and Mortar
@@ -4563,6 +4599,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 48365025242,268781,2018-11-01,Electric appliances,Home and kitchen,5,1447,759.675,7994.675,e-Shop
 81434678609,268782,2017-03-02,Fiction,Books,1,1069,112.245,1181.245,TeleShop
 94360011427,268783,2016-02-19,Cameras,Electronics,5,1436,753.9,7933.9,TeleShop
+40112010378,268783,2016-03-27,Women,Clothing,5,1471,772.275,8127.275,Brick and Mortar
 42355788256,268783,2017-07-01,Kids,Footwear,2,467,98.07,1032.07,TeleShop
 42881176392,268783,2018-03-06,Personal Appliances,Electronics,1,990,103.95,1093.95,Brick and Mortar
 92123741696,268783,2018-03-06,Academic,Books,4,663,278.46,2930.46,Brick and Mortar
@@ -5125,6 +5162,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 35560569829,269008,2018-09-03,Fiction,Books,1,1441,151.305,1592.305,e-Shop
 77829910754,269010,2016-08-15,Mobiles,Electronics,4,613,257.46,2709.46,Brick and Mortar
 55845332490,269010,2017-11-20,Furnishing,Home and kitchen,4,209,87.78,923.78,e-Shop
+18666557088,269010,2018-04-04,Mens,Footwear,5,1477,775.425,8160.425,e-Shop
 5905297065,269010,2018-07-19,Kids,Books,2,1019,213.99,2251.99,Brick and Mortar
 65750070935,269013,2016-05-12,Kids,Clothing,1,86,9.03,95.03,TeleShop
 71990994962,269013,2017-06-23,Kids,Books,2,789,165.69,1743.69,Brick and Mortar
@@ -5287,6 +5325,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 12275074003,269080,2016-08-10,Kids,Footwear,1,847,88.935,935.935,Brick and Mortar
 81762765463,269080,2016-09-03,Mens,Footwear,5,381,200.025,2105.025,Brick and Mortar
 81931093361,269080,2017-08-25,Cameras,Electronics,2,1102,231.42,2435.42,Brick and Mortar
+37642544565,269080,2018-09-02,Mobiles,Electronics,5,1468,770.7,8110.7,e-Shop
 97003831209,269081,2017-11-20,Non-fiction,Books,3,1452,457.38,4813.38,Brick and Mortar
 2633327897,269083,2016-07-21,Computers,Electronics,1,1418,148.89,1566.89,TeleShop
 78789903734,269083,2018-04-18,Mens,Bags,4,503,211.26,2223.26,e-Shop
@@ -5336,6 +5375,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 25364198419,269100,2017-07-28,Fiction,Books,1,1285,134.925,1419.925,e-Shop
 92885373168,269100,2018-12-19,Bedding and Towels,Home and kitchen,2,383,80.43,846.43,TeleShop
 23071828666,269101,2016-04-17,Fiction,Books,5,1235,648.375,6823.375,TeleShop
+13511219572,269101,2018-03-22,Non-fiction,Books,5,1498,786.45,8276.45,Brick and Mortar
 16580948072,269101,2018-10-17,Home Decoratives,Home and kitchen,3,630,198.45,2088.45,TeleShop
 70611254625,269104,2017-02-03,Electric appliances,Home and kitchen,5,184,96.6,1016.6,Brick and Mortar
 81247697318,269104,2017-06-15,Mobiles,Electronics,2,665,139.65,1469.65,Brick and Mortar
@@ -5382,7 +5422,9 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 13189545351,269124,2017-09-23,Home Decoratives,Home and kitchen,2,1494,313.74,3301.74,Brick and Mortar
 38657598424,269124,2017-12-25,Kids,Clothing,4,1197,502.74,5290.74,TeleShop
 43623034873,269124,2018-08-19,Kids,Books,1,516,54.18,570.18,Brick and Mortar
+41805902207,269125,2016-03-08,Academic,Books,5,1491,782.775,8237.775,e-Shop
 14000802773,269125,2016-11-25,Computers,Electronics,4,1127,473.34,4981.34,Brick and Mortar
+643942673,269125,2016-12-27,Mens,Bags,5,1471,772.275,8127.275,Brick and Mortar
 81983113640,269125,2018-12-26,Mens,Clothing,4,1222,513.24,5401.24,TeleShop
 6125738010,269132,2016-04-27,Kids,Footwear,1,1034,108.57,1142.57,Brick and Mortar
 34147228089,269132,2016-11-15,Audio and video,Electronics,5,187,98.175,1033.175,Brick and Mortar
@@ -5595,6 +5637,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 57458486916,269201,2017-07-11,Women,Footwear,3,615,193.725,2038.725,TeleShop
 28612590604,269201,2017-11-27,Non-fiction,Books,5,77,40.425,425.425,Brick and Mortar
 29918957836,269202,2016-02-10,Mobiles,Electronics,3,1439,453.285,4770.285,Brick and Mortar
+57673619170,269205,2016-11-19,Kids,Books,5,1492,783.3,8243.3,TeleShop
 17622072524,269205,2016-12-07,Fiction,Books,4,1037,435.54,4583.54,Brick and Mortar
 78585901424,269205,2018-01-02,Mens,Bags,5,556,291.9,3071.9,Brick and Mortar
 9631601808,269205,2018-09-28,DIY,Books,1,809,84.945,893.945,TeleShop
@@ -6029,6 +6072,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 35751594250,269368,2016-04-03,Non-fiction,Books,3,452,142.38,1498.38,Brick and Mortar
 62642032083,269368,2017-05-09,Kids,Books,3,939,295.785,3112.785,e-Shop
 239004395,269368,2018-12-05,Fiction,Books,5,969,508.725,5353.725,e-Shop
+87204879277,269370,2017-09-17,Kids,Books,5,1473,773.325,8138.325,TeleShop
 56185568075,269370,2018-02-06,DIY,Books,2,270,56.7,596.7,Brick and Mortar
 95496349529,269370,2018-05-12,Furnishing,Home and kitchen,5,215,112.875,1187.875,TeleShop
 16032809239,269370,2018-05-24,Women,Clothing,4,142,59.64,627.64,e-Shop
@@ -6186,6 +6230,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 39185908168,269445,2016-09-04,Kids,Books,2,1327,278.67,2932.67,TeleShop
 82131936512,269445,2017-04-12,Women,Bags,4,737,309.54,3257.54,TeleShop
 85779861345,269445,2018-12-22,Mobiles,Electronics,2,573,120.33,1266.33,TeleShop
+97656300891,269447,2016-10-03,Women,Clothing,5,1456,764.4,8044.4,Brick and Mortar
 58453028692,269447,2016-11-07,Bedding and Towels,Home and kitchen,2,256,53.76,565.76,e-Shop
 69124158866,269447,2016-12-03,Kids,Clothing,2,1108,232.68,2448.68,Brick and Mortar
 55908020302,269447,2017-08-17,Kids,Clothing,4,884,371.28,3907.28,Brick and Mortar
@@ -6374,6 +6419,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 20227200255,269513,2018-03-13,Mobiles,Electronics,5,146,76.65,806.65,e-Shop
 79890495964,269513,2018-06-01,DIY,Books,3,549,172.935,1819.935,e-Shop
 75693309564,269513,2018-06-29,Fiction,Books,1,579,60.795,639.795,Brick and Mortar
+64649255875,269514,2016-09-05,Cameras,Electronics,5,1470,771.75,8121.75,e-Shop
 4865085213,269514,2016-11-08,Personal Appliances,Electronics,2,214,44.94,472.94,Brick and Mortar
 80494053326,269514,2017-04-21,Women,Clothing,1,877,92.085,969.085,e-Shop
 37760459170,269514,2017-06-09,Mens,Bags,3,875,275.625,2900.625,Brick and Mortar
@@ -6430,6 +6476,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 41055763658,269532,2018-08-24,Women,Clothing,4,1417,595.14,6263.14,e-Shop
 97152274832,269533,2016-09-04,Kids,Books,3,1399,440.685,4637.685,e-Shop
 99488038460,269533,2017-02-15,DIY,Books,4,109,45.78,481.78,Brick and Mortar
+7444514139,269533,2017-04-02,Kids,Books,5,1471,772.275,8127.275,Brick and Mortar
 71186901320,269533,2017-10-05,Kids,Books,1,1391,146.055,1537.055,Brick and Mortar
 55298589937,269533,2018-02-15,Fiction,Books,3,1305,411.075,4326.075,e-Shop
 325812866,269535,2016-01-27,Bedding and Towels,Home and kitchen,2,966,202.86,2134.86,e-Shop
@@ -6456,6 +6503,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 55710146612,269541,2017-02-20,Mens,Clothing,1,652,68.46,720.46,Brick and Mortar
 90372853130,269541,2017-06-21,Kids,Books,3,131,41.265,434.265,Brick and Mortar
 44752178619,269541,2018-12-24,Women,Footwear,5,1196,627.9,6607.9,e-Shop
+6308956321,269544,2016-03-26,Women,Clothing,5,1460,766.5,8066.5,Brick and Mortar
 98408148028,269544,2016-04-05,DIY,Books,2,1127,236.67,2490.67,e-Shop
 94756211732,269544,2016-04-12,Mens,Bags,5,308,161.7,1701.7,e-Shop
 43715235260,269544,2016-08-16,Kids,Clothing,2,1174,246.54,2594.54,Brick and Mortar
@@ -6513,6 +6561,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 94118692009,269568,2016-06-21,Mobiles,Electronics,3,865,272.475,2867.475,e-Shop
 56532512486,269568,2016-07-28,Furnishing,Home and kitchen,2,731,153.51,1615.51,Brick and Mortar
 83259485319,269568,2016-10-28,Audio and video,Electronics,4,976,409.92,4313.92,e-Shop
+536918883,269570,2016-04-02,Cameras,Electronics,5,1488,781.2,8221.2,e-Shop
 3795900710,269570,2016-05-31,Furnishing,Home and kitchen,1,601,63.105,664.105,Brick and Mortar
 97106722987,269570,2016-06-11,Bedding and Towels,Home and kitchen,1,247,25.935,272.935,Brick and Mortar
 31729113269,269570,2017-08-26,Audio and video,Electronics,1,269,28.245,297.245,Brick and Mortar
@@ -6726,6 +6775,8 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 6882880987,269651,2016-11-09,Kids,Footwear,1,370,38.85,408.85,Brick and Mortar
 58440882269,269651,2016-11-16,Kids,Clothing,3,966,304.29,3202.29,e-Shop
 5109314776,269651,2016-12-06,Bedding and Towels,Home and kitchen,5,782,410.55,4320.55,TeleShop
+2708053215,269652,2016-02-26,Fiction,Books,5,1496,785.4,8265.4,e-Shop
+2429247892,269652,2017-04-10,Mobiles,Electronics,5,1478,775.95,8165.95,Brick and Mortar
 95889770017,269652,2017-05-04,Mens,Footwear,3,562,177.03,1863.03,Brick and Mortar
 73379353541,269652,2018-06-29,Mens,Clothing,5,323,169.575,1784.575,e-Shop
 64868665571,269653,2018-03-07,Audio and video,Electronics,5,577,302.925,3187.925,TeleShop
@@ -6824,6 +6875,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 89278318131,269692,2016-07-21,Women,Bags,5,1018,534.45,5624.45,Brick and Mortar
 9185929299,269692,2016-07-30,Women,Footwear,4,526,220.92,2324.92,TeleShop
 50471418588,269692,2018-12-03,Audio and video,Electronics,1,91,9.555,100.555,e-Shop
+19109792129,269694,2016-11-12,Mobiles,Electronics,5,1496,785.4,8265.4,Brick and Mortar
 40143825895,269694,2016-12-11,Mens,Bags,5,1099,576.975,6071.975,Brick and Mortar
 68699500892,269694,2017-07-17,Cameras,Electronics,2,1369,287.49,3025.49,e-Shop
 44330791965,269694,2017-11-19,Kids,Footwear,4,500,210.0,2210.0,e-Shop
@@ -6894,6 +6946,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 14248126452,269721,2016-10-12,Mobiles,Electronics,4,835,350.7,3690.7,e-Shop
 40297132296,269721,2017-06-06,Kids,Books,1,599,62.895,661.895,e-Shop
 93292075056,269721,2017-11-22,Personal Appliances,Electronics,3,618,194.67,2048.67,Brick and Mortar
+55390462245,269721,2018-02-15,DIY,Books,5,1457,764.925,8049.925,e-Shop
 35939269395,269723,2016-09-11,Home Decoratives,Home and kitchen,3,484,152.46,1604.46,Brick and Mortar
 27099760277,269723,2016-11-19,Mens,Clothing,2,923,193.83,2039.83,e-Shop
 56831384096,269723,2017-01-29,Academic,Books,3,1274,401.31,4223.31,Brick and Mortar
@@ -7269,6 +7322,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 51068267236,269888,2017-09-24,Mens,Clothing,1,1318,138.39,1456.39,e-Shop
 317342885,269888,2018-01-07,Non-fiction,Books,2,550,115.5,1215.5,e-Shop
 33651676869,269888,2018-07-24,Mens,Clothing,3,827,260.505,2741.505,TeleShop
+94554325932,269890,2016-09-12,Mens,Footwear,5,1481,777.525,8182.525,Brick and Mortar
 47242493733,269890,2017-05-04,Personal Appliances,Electronics,5,609,319.725,3364.725,TeleShop
 65557042064,269890,2017-09-29,Cameras,Electronics,4,1069,448.98,4724.98,TeleShop
 19554330943,269890,2018-07-11,Home Decoratives,Home and kitchen,4,959,402.78,4238.78,e-Shop
@@ -7425,11 +7479,13 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 13153892284,269957,2016-09-17,DIY,Books,1,973,102.165,1075.165,e-Shop
 72094113710,269957,2016-11-08,Personal Appliances,Electronics,4,472,198.24,2086.24,Brick and Mortar
 66597594359,269957,2017-06-21,Mobiles,Electronics,4,321,134.82,1418.82,e-Shop
+49165206801,269957,2018-01-20,Mens,Clothing,5,1493,783.825,8248.825,Brick and Mortar
 83849473598,269958,2016-01-02,Academic,Books,3,403,126.945,1335.945,e-Shop
 6153908769,269958,2016-07-18,Kids,Books,2,819,171.99,1809.99,Brick and Mortar
 68613222676,269958,2017-04-17,Electric appliances,Home and kitchen,2,1223,256.83,2702.83,Brick and Mortar
 30013289892,269958,2017-06-15,Mens,Bags,1,732,76.86,808.86,Brick and Mortar
 25508753030,269958,2018-01-20,Women,Footwear,4,1044,438.48,4614.48,e-Shop
+76680456784,269958,2018-03-16,Non-fiction,Books,5,1463,768.075,8083.075,e-Shop
 64623321015,269958,2018-10-17,Kids,Books,1,337,35.385,372.385,TeleShop
 58712648311,269958,2018-10-31,Mens,Clothing,5,730,383.25,4033.25,e-Shop
 75071383756,269958,2018-12-06,Electric appliances,Home and kitchen,1,144,15.12,159.12,e-Shop
@@ -7497,6 +7553,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 28314688718,269980,2016-04-03,Electric appliances,Home and kitchen,5,971,509.775,5364.775,e-Shop
 89105324223,269980,2016-06-24,Electric appliances,Home and kitchen,3,345,108.675,1143.675,e-Shop
 66142123875,269980,2018-08-07,Cameras,Electronics,3,787,247.905,2608.905,e-Shop
+70415664505,269980,2018-10-31,Fiction,Books,5,1460,766.5,8066.5,e-Shop
 11289491560,269981,2016-11-05,Academic,Books,2,1031,216.51,2278.51,Brick and Mortar
 69604198933,269981,2017-02-22,Cameras,Electronics,2,197,41.37,435.37,TeleShop
 56960319474,269981,2017-08-24,Non-fiction,Books,3,1229,387.135,4074.135,Brick and Mortar
@@ -7572,6 +7629,8 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 81727595816,270009,2016-03-26,Women,Bags,5,1021,536.025,5641.025,e-Shop
 44498135124,270009,2018-09-17,Cameras,Electronics,1,1124,118.02,1242.02,e-Shop
 9885877966,270011,2016-09-12,Women,Footwear,1,1020,107.1,1127.1,TeleShop
+52178944753,270011,2018-12-03,Non-fiction,Books,5,1464,768.6,8088.6,e-Shop
+40282154204,270012,2016-08-15,Kids,Books,5,1489,781.725,8226.725,Brick and Mortar
 13301394952,270012,2016-09-08,Academic,Books,3,350,110.25,1160.25,Brick and Mortar
 93327982082,270012,2018-05-16,Mens,Footwear,2,1355,284.55,2994.55,e-Shop
 36036521864,270018,2018-01-19,Kids,Clothing,5,1188,623.7,6563.7,e-Shop
@@ -7797,6 +7856,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 56902657914,270120,2017-11-08,Kids,Clothing,1,876,91.98,967.98,e-Shop
 80257949153,270120,2018-08-13,Mens,Clothing,3,307,96.705,1017.705,e-Shop
 65133767570,270121,2016-08-28,Kids,Clothing,1,514,53.97,567.97,e-Shop
+97311373122,270121,2016-11-29,Audio and video,Electronics,5,1498,786.45,8276.45,TeleShop
 69072432315,270121,2016-12-08,Computers,Electronics,3,603,189.945,1998.945,e-Shop
 28161513575,270121,2016-12-22,Kids,Books,5,401,210.525,2215.525,TeleShop
 85013592651,270121,2018-07-14,Mens,Footwear,5,660,346.5,3646.5,Brick and Mortar
@@ -8138,6 +8198,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 37524677011,270280,2017-11-17,Women,Footwear,2,263,55.23,581.23,Brick and Mortar
 96521768703,270281,2016-04-24,Electric appliances,Home and kitchen,3,945,297.675,3132.675,e-Shop
 34694014374,270281,2017-01-17,Kids,Clothing,2,781,164.01,1726.01,Brick and Mortar
+19617469335,270281,2018-09-12,Women,Clothing,5,1455,763.875,8038.875,TeleShop
 61077419463,270281,2018-12-15,Home Decoratives,Home and kitchen,1,1064,111.72,1175.72,e-Shop
 37136581569,270282,2017-08-15,Academic,Books,5,718,376.95,3966.95,Brick and Mortar
 17319289580,270282,2018-04-18,Women,Bags,2,962,202.02,2126.02,e-Shop
@@ -8317,6 +8378,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 44718128135,270349,2017-10-13,Mens,Bags,3,1417,446.355,4697.355,Brick and Mortar
 56098199475,270349,2018-11-02,Women,Bags,2,1010,212.1,2232.1,e-Shop
 41834328141,270350,2017-09-19,Women,Bags,3,877,276.255,2907.255,e-Shop
+1300850641,270350,2018-01-02,DIY,Books,5,1492,783.3,8243.3,e-Shop
 60571971141,270350,2018-07-29,Women,Footwear,4,410,172.2,1812.2,Brick and Mortar
 13993625474,270350,2018-10-04,Mens,Bags,2,423,88.83,934.83,Brick and Mortar
 85791685668,270350,2018-11-15,Bedding and Towels,Home and kitchen,5,1370,719.25,7569.25,Brick and Mortar
@@ -8509,6 +8571,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 38827805815,270425,2017-05-12,Kids,Books,3,1164,366.66,3858.66,TeleShop
 51706625543,270425,2017-06-04,Non-fiction,Books,1,1316,138.18,1454.18,Brick and Mortar
 9062602615,270425,2017-11-18,Home Decoratives,Home and kitchen,5,526,276.15,2906.15,Brick and Mortar
+39059490366,270425,2018-07-16,DIY,Books,5,1482,778.05,8188.05,TeleShop
 6108927008,270427,2016-09-10,Non-fiction,Books,4,463,194.46,2046.46,e-Shop
 79861806677,270428,2016-09-18,Women,Clothing,2,1463,307.23,3233.23,TeleShop
 26893731143,270428,2017-08-09,Kids,Books,3,96,30.24,318.24,Brick and Mortar
@@ -8604,6 +8667,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 99341082862,270457,2018-07-16,Academic,Books,4,830,348.6,3668.6,Brick and Mortar
 99443006000,270457,2018-07-21,DIY,Books,2,1209,253.89,2671.89,e-Shop
 94264765449,270458,2016-09-21,Cameras,Electronics,1,924,97.02,1021.02,TeleShop
+33171404986,270458,2017-04-13,Mens,Footwear,5,1470,771.75,8121.75,TeleShop
 6254948639,270458,2018-05-15,Bedding and Towels,Home and kitchen,3,230,72.45,762.45,Brick and Mortar
 5727246856,270458,2018-07-19,Electric appliances,Home and kitchen,1,218,22.89,240.89,Brick and Mortar
 7184888208,270458,2018-08-15,Bedding and Towels,Home and kitchen,1,553,58.065,611.065,e-Shop
@@ -8703,6 +8767,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 89627023382,270491,2018-04-15,Mens,Clothing,5,787,413.175,4348.175,e-Shop
 75648018119,270492,2016-06-13,Non-fiction,Books,2,621,130.41,1372.41,Brick and Mortar
 46006735862,270492,2017-01-15,Non-fiction,Books,4,933,391.86,4123.86,e-Shop
+3213260731,270493,2017-06-09,Women,Bags,5,1487,780.675,8215.675,Brick and Mortar
 83914141924,270493,2017-10-02,Mobiles,Electronics,2,1051,220.71,2322.71,Brick and Mortar
 6917311170,270493,2018-01-12,DIY,Books,4,698,293.16,3085.16,e-Shop
 88798257843,270493,2018-01-16,Cameras,Electronics,4,730,306.6,3226.6,Brick and Mortar
@@ -8784,6 +8849,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 15570148409,270535,2017-07-16,Academic,Books,3,903,284.445,2993.445,e-Shop
 32232701316,270535,2017-09-05,Electric appliances,Home and kitchen,3,570,179.55,1889.55,e-Shop
 95538077895,270535,2018-06-06,Mens,Footwear,1,103,10.815,113.815,Brick and Mortar
+77307225756,270535,2018-06-29,Mobiles,Electronics,5,1461,767.025,8072.025,Brick and Mortar
 74772500006,270535,2018-08-28,Mens,Footwear,4,825,346.5,3646.5,TeleShop
 95602699221,270536,2018-01-23,Furnishing,Home and kitchen,5,919,482.475,5077.475,e-Shop
 16828867534,270538,2016-07-12,Home Decoratives,Home and kitchen,4,303,127.26,1339.26,Brick and Mortar
@@ -8801,6 +8867,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 27254320090,270540,2018-05-17,Mens,Clothing,3,719,226.485,2383.485,Brick and Mortar
 36942426973,270540,2018-05-31,Academic,Books,5,460,241.5,2541.5,Brick and Mortar
 26674618000,270541,2016-08-05,Mens,Footwear,3,76,23.94,251.94,e-Shop
+69055790067,270541,2017-01-12,Non-fiction,Books,5,1461,767.025,8072.025,Brick and Mortar
 30402359089,270541,2017-07-05,Kids,Footwear,1,795,83.475,878.475,TeleShop
 3269493227,270541,2017-12-18,Mens,Footwear,1,1416,148.68,1564.68,e-Shop
 34098986878,270541,2018-05-10,Personal Appliances,Electronics,1,518,54.39,572.39,TeleShop
@@ -8882,6 +8949,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 81383763106,270571,2018-03-22,Kids,Footwear,5,606,318.15,3348.15,e-Shop
 788829382,270571,2018-04-05,Women,Footwear,5,921,483.525,5088.525,Brick and Mortar
 44794752153,270571,2018-05-17,Furnishing,Home and kitchen,5,176,92.4,972.4,Brick and Mortar
+19309959579,270571,2018-09-10,Fiction,Books,5,1473,773.325,8138.325,e-Shop
 62246661789,270572,2016-05-22,Electric appliances,Home and kitchen,4,429,180.18,1896.18,Brick and Mortar
 45189987944,270572,2017-01-08,Bedding and Towels,Home and kitchen,1,547,57.435,604.435,e-Shop
 2341177541,270572,2017-10-27,Mobiles,Electronics,1,252,26.46,278.46,Brick and Mortar
@@ -9102,6 +9170,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 15667192522,270666,2016-01-09,Furnishing,Home and kitchen,2,1149,241.29,2539.29,Brick and Mortar
 70293921901,270666,2017-08-10,Home Decoratives,Home and kitchen,3,214,67.41,709.41,e-Shop
 26394424694,270666,2018-12-22,Kids,Clothing,3,562,177.03,1863.03,e-Shop
+47747209902,270667,2017-08-23,Computers,Electronics,5,1500,787.5,8287.5,Brick and Mortar
 64670051781,270668,2016-10-20,Non-fiction,Books,1,716,75.18,791.18,Brick and Mortar
 13012782915,270668,2016-10-31,Fiction,Books,5,748,392.7,4132.7,Brick and Mortar
 89584274379,270668,2017-09-10,Mens,Bags,3,459,144.585,1521.585,TeleShop
@@ -9117,6 +9186,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 39781364281,270672,2018-07-02,Cameras,Electronics,2,815,171.15,1801.15,Brick and Mortar
 54863881279,270672,2018-11-10,DIY,Books,4,653,274.26,2886.26,Brick and Mortar
 90996310952,270675,2016-09-28,Academic,Books,3,1067,336.105,3537.105,e-Shop
+96042457122,270675,2016-11-08,Mens,Bags,5,1483,778.575,8193.575,Brick and Mortar
 53491950406,270675,2017-02-14,Kids,Books,4,301,126.42,1330.42,TeleShop
 23650595019,270675,2017-10-13,DIY,Books,2,1320,277.2,2917.2,Brick and Mortar
 24128401981,270675,2017-10-25,Kids,Books,1,879,92.295,971.295,Brick and Mortar
@@ -9153,6 +9223,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 96308571282,270690,2017-08-20,Academic,Books,5,1206,633.15,6663.15,e-Shop
 12853679962,270690,2018-07-10,Mens,Footwear,4,744,312.48,3288.48,Brick and Mortar
 20306944546,270690,2018-08-29,Fiction,Books,5,307,161.175,1696.175,TeleShop
+31286059614,270692,2016-01-11,Mens,Bags,5,1489,781.725,8226.725,Brick and Mortar
 50957060611,270692,2017-07-31,Kids,Footwear,4,402,168.84,1776.84,e-Shop
 62791723506,270692,2017-11-12,Kids,Books,3,1411,444.465,4677.465,Brick and Mortar
 19693241186,270692,2018-03-30,Mobiles,Electronics,4,749,314.58,3310.58,e-Shop
@@ -9211,6 +9282,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 53318125153,270710,2018-05-20,Mobiles,Electronics,2,204,42.84,450.84,e-Shop
 80854397491,270710,2018-11-13,Furnishing,Home and kitchen,1,506,53.13,559.13,Brick and Mortar
 6820703680,270710,2018-11-22,Computers,Electronics,5,380,199.5,2099.5,Brick and Mortar
+39860198642,270710,2018-12-08,Women,Footwear,5,1488,781.2,8221.2,e-Shop
 80368291310,270711,2017-02-20,Home Decoratives,Home and kitchen,3,1267,399.105,4200.105,Brick and Mortar
 58490117115,270714,2017-01-22,Personal Appliances,Electronics,2,505,106.05,1116.05,e-Shop
 47865401829,270714,2017-07-17,Kids,Books,5,179,93.975,988.975,e-Shop
@@ -9421,6 +9493,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 49182764418,270803,2017-10-15,Furnishing,Home and kitchen,1,533,55.965,588.965,Brick and Mortar
 62883046657,270803,2017-12-07,Kids,Books,1,247,25.935,272.935,e-Shop
 83116588356,270803,2018-01-31,Audio and video,Electronics,3,882,277.83,2923.83,e-Shop
+28483619475,270803,2018-02-21,Mens,Clothing,5,1492,783.3,8243.3,e-Shop
 68270675001,270803,2018-07-14,Mobiles,Electronics,1,471,49.455,520.455,TeleShop
 13749219909,270803,2018-07-17,Audio and video,Electronics,5,1037,544.425,5729.425,TeleShop
 29919046071,270803,2018-10-23,Women,Clothing,3,102,32.13,338.13,e-Shop
@@ -9455,6 +9528,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 98972652363,270821,2016-09-10,Academic,Books,1,658,69.09,727.09,e-Shop
 45434309051,270821,2017-03-13,Home Decoratives,Home and kitchen,2,912,191.52,2015.52,Brick and Mortar
 71279897664,270821,2017-04-02,Bedding and Towels,Home and kitchen,2,1034,217.14,2285.14,Brick and Mortar
+79461431337,270821,2017-11-17,Academic,Books,5,1497,785.925,8270.925,Brick and Mortar
 3649867945,270822,2016-03-26,Computers,Electronics,1,491,51.555,542.555,Brick and Mortar
 39726268595,270822,2017-02-04,Mens,Footwear,4,300,126.0,1326.0,TeleShop
 99663007223,270822,2017-12-30,Kids,Footwear,1,1459,153.195,1612.195,e-Shop
@@ -9497,6 +9571,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 53184646530,270833,2016-05-13,Women,Footwear,3,1013,319.095,3358.095,e-Shop
 28039645471,270833,2016-07-26,Kids,Books,3,1178,371.07,3905.07,e-Shop
 75557082445,270833,2017-04-07,Non-fiction,Books,3,525,165.375,1740.375,Brick and Mortar
+14412364244,270833,2018-08-06,Bedding and Towels,Home and kitchen,5,1457,764.925,8049.925,Brick and Mortar
 94846961509,270833,2018-10-29,Kids,Footwear,1,1090,114.45,1204.45,Brick and Mortar
 68968924977,270834,2016-05-13,Kids,Books,3,983,309.645,3258.645,Brick and Mortar
 32919213468,270834,2016-09-13,Fiction,Books,3,1215,382.725,4027.725,e-Shop
@@ -9874,6 +9949,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 2746457247,270983,2017-02-20,Mens,Bags,5,639,335.475,3530.475,e-Shop
 51277481778,270983,2018-05-19,Kids,Books,1,1199,125.895,1324.895,Brick and Mortar
 15794095352,270984,2016-06-08,Kids,Clothing,1,1486,156.03,1642.03,Brick and Mortar
+12393851148,270984,2017-03-16,Audio and video,Electronics,5,1471,772.275,8127.275,Brick and Mortar
 98679310895,270985,2016-02-10,Kids,Books,3,210,66.15,696.15,Brick and Mortar
 22709456057,270985,2016-05-22,Home Decoratives,Home and kitchen,5,165,86.625,911.625,TeleShop
 13351286219,270985,2016-11-18,Mobiles,Electronics,4,302,126.84,1334.84,Brick and Mortar
@@ -10009,6 +10085,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 1403210199,271045,2017-05-18,Women,Footwear,1,894,93.87,987.87,TeleShop
 17141697014,271045,2017-07-29,Mens,Footwear,5,763,400.575,4215.575,e-Shop
 6835449248,271045,2018-07-19,Kids,Clothing,2,656,137.76,1449.76,e-Shop
+15426461731,271045,2018-09-01,Kids,Clothing,5,1481,777.525,8182.525,e-Shop
 71930388488,271046,2016-06-18,Audio and video,Electronics,2,1041,218.61,2300.61,e-Shop
 49782657400,271046,2016-09-17,Electric appliances,Home and kitchen,1,1020,107.1,1127.1,Brick and Mortar
 66859430159,271046,2017-06-10,Home Decoratives,Home and kitchen,3,590,185.85,1955.85,Brick and Mortar
@@ -10239,6 +10316,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 18567663554,271150,2016-09-15,Computers,Electronics,3,502,158.13,1664.13,Brick and Mortar
 1317241497,271150,2017-12-27,Home Decoratives,Home and kitchen,3,722,227.43,2393.43,TeleShop
 2808387161,271150,2018-03-04,Electric appliances,Home and kitchen,1,945,99.225,1044.225,Brick and Mortar
+58989623800,271152,2016-01-10,Computers,Electronics,5,1499,786.975,8281.975,e-Shop
 78183888785,271152,2017-03-01,Cameras,Electronics,5,70,36.75,386.75,e-Shop
 72479303374,271152,2017-03-13,Mens,Footwear,5,993,521.325,5486.325,TeleShop
 9297164024,271152,2018-10-10,Bedding and Towels,Home and kitchen,1,517,54.285,571.285,e-Shop
@@ -10369,6 +10447,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 4337548606,271198,2016-07-16,Women,Clothing,2,1162,244.02,2568.02,e-Shop
 85713628641,271198,2017-08-10,Audio and video,Electronics,4,347,145.74,1533.74,Brick and Mortar
 91591492266,271198,2018-03-16,Kids,Books,1,974,102.27,1076.27,Brick and Mortar
+13927756507,271198,2018-04-07,Personal Appliances,Electronics,5,1492,783.3,8243.3,e-Shop
 60490240953,271198,2018-04-29,Women,Footwear,4,314,131.88,1387.88,TeleShop
 65058387022,271200,2016-08-26,Electric appliances,Home and kitchen,1,682,71.61,753.61,Brick and Mortar
 72190889247,271200,2017-08-31,Mens,Clothing,1,1352,141.96,1493.96,e-Shop
@@ -10560,6 +10639,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 66565942035,271293,2017-06-13,Mens,Footwear,4,187,78.54,826.54,TeleShop
 8492021484,271293,2017-12-30,Personal Appliances,Electronics,2,894,187.74,1975.74,Brick and Mortar
 98232964592,271293,2018-01-14,Fiction,Books,1,241,25.305,266.305,Brick and Mortar
+89203065847,271293,2018-02-16,Furnishing,Home and kitchen,5,1483,778.575,8193.575,Brick and Mortar
 29844219871,271293,2018-08-17,Mobiles,Electronics,3,920,289.8,3049.8,e-Shop
 34407452272,271293,2018-09-12,Kids,Footwear,2,676,141.96,1493.96,Brick and Mortar
 65625087160,271294,2016-05-04,DIY,Books,3,103,32.445,341.445,TeleShop
@@ -10772,6 +10852,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 69862629509,271380,2016-11-04,Mens,Footwear,5,577,302.925,3187.925,e-Shop
 53440325819,271380,2017-01-12,Women,Footwear,1,577,60.585,637.585,e-Shop
 91466446059,271380,2018-05-05,Non-fiction,Books,4,351,147.42,1551.42,TeleShop
+46646960526,271380,2018-09-22,Non-fiction,Books,5,1494,784.35,8254.35,Brick and Mortar
 39437174939,271381,2016-07-04,Women,Bags,5,1396,732.9,7712.9,TeleShop
 57181531750,271381,2016-10-15,DIY,Books,5,1356,711.9,7491.9,e-Shop
 22086389295,271381,2017-01-17,Kids,Books,4,249,104.58,1100.58,Brick and Mortar
@@ -10824,6 +10905,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 73940984405,271402,2017-07-17,Mens,Bags,2,1060,222.6,2342.6,TeleShop
 89992236682,271404,2016-10-27,Women,Bags,1,971,101.955,1072.955,Brick and Mortar
 15171347735,271404,2017-08-07,Women,Footwear,1,81,8.505,89.505,e-Shop
+80605853786,271404,2017-10-15,Women,Clothing,5,1483,778.575,8193.575,TeleShop
 93589289788,271404,2017-12-14,Kids,Footwear,1,1454,152.67,1606.67,TeleShop
 99358505664,271404,2018-11-21,Mens,Bags,1,395,41.475,436.475,e-Shop
 98160924678,271405,2016-02-23,Furnishing,Home and kitchen,3,1423,448.245,4717.245,Brick and Mortar
@@ -10939,6 +11021,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 64393698292,271460,2018-07-17,Audio and video,Electronics,2,130,27.3,287.3,Brick and Mortar
 10039062598,271461,2016-03-16,Bedding and Towels,Home and kitchen,1,1162,122.01,1284.01,Brick and Mortar
 68817428621,271461,2016-07-20,Kids,Footwear,2,1293,271.53,2857.53,e-Shop
+26382478485,271461,2016-12-30,Bedding and Towels,Home and kitchen,5,1469,771.225,8116.225,Brick and Mortar
 11974703760,271461,2017-05-19,Computers,Electronics,2,808,169.68,1785.68,e-Shop
 9203449876,271461,2017-05-27,Mens,Footwear,2,759,159.39,1677.39,Brick and Mortar
 26401472291,271461,2018-03-02,Kids,Clothing,5,273,143.325,1508.325,TeleShop
@@ -10976,6 +11059,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 1311132963,271478,2017-11-29,Computers,Electronics,5,1437,754.425,7939.425,e-Shop
 61512883058,271479,2016-03-07,Women,Bags,4,1262,530.04,5578.04,e-Shop
 60959121723,271479,2016-10-15,Kids,Books,3,1333,419.895,4418.895,e-Shop
+46227846431,271479,2018-01-22,Mens,Clothing,5,1460,766.5,8066.5,Brick and Mortar
 47017786915,271479,2018-05-08,Audio and video,Electronics,5,1413,741.825,7806.825,e-Shop
 17981123555,271482,2017-10-06,Electric appliances,Home and kitchen,1,746,78.33,824.33,TeleShop
 6132974140,271482,2018-01-15,DIY,Books,4,659,276.78,2912.78,e-Shop
@@ -11113,6 +11197,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 38953044099,271538,2017-05-28,Personal Appliances,Electronics,3,599,188.685,1985.685,TeleShop
 85435759773,271538,2017-09-03,Women,Clothing,1,673,70.665,743.665,Brick and Mortar
 22728033909,271540,2018-10-22,Academic,Books,1,849,89.145,938.145,e-Shop
+81820232147,271541,2016-09-21,Women,Bags,5,1473,773.325,8138.325,Brick and Mortar
 3121358169,271541,2017-04-01,Mens,Bags,5,648,340.2,3580.2,e-Shop
 21548243356,271541,2018-04-25,Personal Appliances,Electronics,2,896,188.16,1980.16,Brick and Mortar
 90565659699,271541,2018-06-15,Women,Clothing,3,388,122.22,1286.22,Brick and Mortar
@@ -11169,6 +11254,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 3162827374,271562,2017-06-08,Kids,Books,5,1143,600.075,6315.075,Brick and Mortar
 67214655197,271562,2017-10-21,Women,Footwear,5,1178,618.45,6508.45,e-Shop
 69058680980,271563,2016-07-08,Audio and video,Electronics,5,1192,625.8,6585.8,Brick and Mortar
+80209378861,271563,2018-04-22,Audio and video,Electronics,5,1462,767.55,8077.55,Brick and Mortar
 53467714946,271563,2018-05-19,Furnishing,Home and kitchen,2,1395,292.95,3082.95,TeleShop
 88807980698,271565,2016-02-05,Cameras,Electronics,4,1345,564.9,5944.9,Brick and Mortar
 11180697599,271565,2016-02-24,Mobiles,Electronics,3,74,23.31,245.31,Brick and Mortar
@@ -11276,6 +11362,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 57668609075,271605,2016-11-24,Kids,Books,5,963,505.575,5320.575,e-Shop
 41548065485,271605,2018-09-20,Women,Bags,2,1265,265.65,2795.65,e-Shop
 38832590335,271606,2016-11-14,Cameras,Electronics,1,104,10.92,114.92,Brick and Mortar
+19933865968,271606,2017-02-24,Computers,Electronics,5,1496,785.4,8265.4,e-Shop
 37016171927,271606,2017-08-22,Furnishing,Home and kitchen,3,1062,334.53,3520.53,e-Shop
 89095982063,271606,2017-11-19,Personal Appliances,Electronics,1,346,36.33,382.33,Brick and Mortar
 62728721725,271606,2018-06-14,Electric appliances,Home and kitchen,4,1341,563.22,5927.22,Brick and Mortar
@@ -11327,6 +11414,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 55955314599,271626,2018-03-20,Bedding and Towels,Home and kitchen,5,1039,545.475,5740.475,TeleShop
 31138895597,271629,2016-07-17,Women,Bags,4,198,83.16,875.16,TeleShop
 34892939554,271629,2017-06-29,Mens,Footwear,2,1100,231.0,2431.0,e-Shop
+88571084340,271629,2017-08-29,Women,Bags,5,1470,771.75,8121.75,e-Shop
 10878198052,271629,2018-01-26,Bedding and Towels,Home and kitchen,3,1437,452.655,4763.655,Brick and Mortar
 16831903599,271632,2016-10-08,Academic,Books,5,1326,696.15,7326.15,e-Shop
 77894076757,271632,2017-03-11,Electric appliances,Home and kitchen,3,443,139.545,1468.545,TeleShop
@@ -11338,6 +11426,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 26936470608,271634,2017-10-31,Personal Appliances,Electronics,1,659,69.195,728.195,Brick and Mortar
 48688052314,271634,2018-07-24,Kids,Books,1,1203,126.315,1329.315,e-Shop
 81060827730,271635,2017-04-07,Furnishing,Home and kitchen,4,1346,565.32,5949.32,TeleShop
+12081555316,271635,2017-08-21,Kids,Books,5,1499,786.975,8281.975,TeleShop
 20811320488,271635,2018-04-22,Furnishing,Home and kitchen,2,902,189.42,1993.42,Brick and Mortar
 50617973308,271635,2018-05-14,Mens,Bags,1,1366,143.43,1509.43,e-Shop
 62128542294,271636,2017-03-24,Mens,Clothing,3,293,92.295,971.295,Brick and Mortar
@@ -11404,6 +11493,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 6091555990,271668,2018-03-06,Mens,Footwear,4,536,225.12,2369.12,e-Shop
 42823875095,271668,2018-09-27,Kids,Books,1,844,88.62,932.62,Brick and Mortar
 71117697410,271669,2016-06-22,Non-fiction,Books,2,750,157.5,1657.5,Brick and Mortar
+61041835845,271669,2017-09-19,Academic,Books,5,1470,771.75,8121.75,e-Shop
 78568562665,271669,2018-08-06,Bedding and Towels,Home and kitchen,5,497,260.925,2745.925,Brick and Mortar
 72412494452,271669,2018-09-12,Kids,Books,2,1435,301.35,3171.35,TeleShop
 18361185806,271670,2016-02-11,Kids,Books,5,1133,594.825,6259.825,TeleShop
@@ -11582,6 +11672,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 44447370469,271740,2016-09-12,Mens,Clothing,3,882,277.83,2923.83,e-Shop
 69074236386,271740,2016-09-23,Kids,Books,5,286,150.15,1580.15,TeleShop
 95160155752,271740,2017-09-10,Electric appliances,Home and kitchen,2,1245,261.45,2751.45,e-Shop
+4094485820,271740,2017-11-10,Fiction,Books,5,1469,771.225,8116.225,e-Shop
 95218786334,271742,2016-01-02,Kids,Footwear,3,1019,320.985,3377.985,TeleShop
 46242890288,271742,2016-06-08,Mens,Bags,3,1108,349.02,3673.02,e-Shop
 7900647779,271742,2018-05-10,Furnishing,Home and kitchen,2,1371,287.91,3029.91,e-Shop
@@ -11678,6 +11769,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 12584085327,271771,2018-04-02,Kids,Footwear,4,552,231.84,2439.84,Brick and Mortar
 58778983502,271771,2018-04-27,Cameras,Electronics,3,1334,420.21,4422.21,Brick and Mortar
 61897402578,271772,2016-07-10,Furnishing,Home and kitchen,1,197,20.685,217.685,e-Shop
+75067291538,271772,2017-10-11,Mens,Footwear,5,1469,771.225,8116.225,Brick and Mortar
 7709432812,271772,2018-02-23,Cameras,Electronics,2,1148,241.08,2537.08,e-Shop
 10440850091,271772,2018-04-26,Mens,Clothing,4,819,343.98,3619.98,Brick and Mortar
 95608465253,271775,2016-02-24,Furnishing,Home and kitchen,3,1278,402.57,4236.57,e-Shop
@@ -11699,6 +11791,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 73706668340,271787,2018-05-31,Audio and video,Electronics,4,337,141.54,1489.54,e-Shop
 74379711396,271788,2016-08-23,Non-fiction,Books,2,1053,221.13,2327.13,e-Shop
 82518041722,271788,2017-03-15,Women,Footwear,5,272,142.8,1502.8,e-Shop
+70912524401,271788,2017-12-08,Mens,Bags,5,1496,785.4,8265.4,e-Shop
 69911541233,271788,2018-09-29,Furnishing,Home and kitchen,3,287,90.405,951.405,e-Shop
 37088951626,271789,2016-02-27,Non-fiction,Books,1,1031,108.255,1139.255,e-Shop
 7971776803,271789,2016-03-09,Women,Footwear,3,764,240.66,2532.66,TeleShop
@@ -11880,6 +11973,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 90073777652,271850,2018-06-08,Kids,Books,3,1170,368.55,3878.55,e-Shop
 97758109708,271850,2018-10-04,Home Decoratives,Home and kitchen,4,1144,480.48,5056.48,Brick and Mortar
 37451370941,271851,2016-06-27,Women,Bags,5,302,158.55,1668.55,TeleShop
+97808849787,271851,2016-09-28,Mobiles,Electronics,5,1477,775.425,8160.425,Brick and Mortar
 10195904465,271851,2017-02-16,Women,Bags,4,1204,505.68,5321.68,Brick and Mortar
 31461615886,271851,2017-05-11,Women,Footwear,3,383,120.645,1269.645,TeleShop
 61497359844,271851,2017-09-23,Kids,Clothing,2,1011,212.31,2234.31,e-Shop
@@ -12090,6 +12184,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 89824749999,271942,2018-10-04,Fiction,Books,2,1444,303.24,3191.24,e-Shop
 16259280765,271943,2016-10-20,Cameras,Electronics,3,102,32.13,338.13,e-Shop
 60243965678,271943,2018-06-05,Bedding and Towels,Home and kitchen,5,1059,555.975,5850.975,Brick and Mortar
+94956713072,271944,2018-03-23,Mens,Footwear,5,1500,787.5,8287.5,e-Shop
 27723475985,271945,2016-03-31,Kids,Books,3,1490,469.35,4939.35,Brick and Mortar
 79772167039,271945,2016-08-30,Kids,Clothing,4,379,159.18,1675.18,Brick and Mortar
 55731830520,271945,2018-07-27,Bedding and Towels,Home and kitchen,2,1429,300.09,3158.09,Brick and Mortar
@@ -12233,6 +12328,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 12183729984,271995,2018-08-04,Women,Footwear,2,1475,309.75,3259.75,e-Shop
 26366990344,271995,2018-09-11,Mobiles,Electronics,3,321,101.115,1064.115,Brick and Mortar
 22227403561,272002,2016-03-12,Mobiles,Electronics,1,1005,105.525,1110.525,TeleShop
+84170497521,272002,2017-04-28,Academic,Books,5,1456,764.4,8044.4,TeleShop
 24961082595,272002,2017-06-11,Kids,Books,2,173,36.33,382.33,e-Shop
 89200535153,272002,2017-09-15,Kids,Books,4,1320,554.4,5834.4,Brick and Mortar
 76931938703,272002,2018-02-08,Kids,Clothing,1,1302,136.71,1438.71,TeleShop
@@ -12344,6 +12440,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 59723015302,272049,2017-09-17,Mens,Clothing,2,509,106.89,1124.89,Brick and Mortar
 89302490823,272050,2017-06-20,Mens,Clothing,4,1467,616.14,6484.14,e-Shop
 3295483875,272050,2018-03-16,Kids,Clothing,3,1282,403.83,4249.83,e-Shop
+39370632665,272054,2016-03-25,Mens,Bags,5,1480,777.0,8177.0,e-Shop
 21655409468,272054,2016-09-08,Cameras,Electronics,5,940,493.5,5193.5,e-Shop
 95779277872,272054,2017-08-31,Electric appliances,Home and kitchen,3,336,105.84,1113.84,e-Shop
 43750210560,272054,2018-02-12,Kids,Books,3,175,55.125,580.125,Brick and Mortar
@@ -12518,6 +12615,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 71337087467,272141,2017-07-16,Non-fiction,Books,3,1422,447.93,4713.93,e-Shop
 79059585885,272141,2017-10-25,Computers,Electronics,2,1354,284.34,2992.34,e-Shop
 71037838387,272142,2016-04-16,Cameras,Electronics,2,1121,235.41,2477.41,TeleShop
+73314181390,272142,2016-04-16,Electric appliances,Home and kitchen,5,1489,781.725,8226.725,e-Shop
 40303022895,272142,2016-12-31,Women,Footwear,5,537,281.925,2966.925,Brick and Mortar
 86840028169,272142,2017-11-05,Computers,Electronics,2,541,113.61,1195.61,Brick and Mortar
 26229360944,272142,2018-04-11,Women,Clothing,4,1468,616.56,6488.56,TeleShop
@@ -12681,6 +12779,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 59868194164,272210,2017-04-21,Audio and video,Electronics,3,168,52.92,556.92,e-Shop
 30998322418,272212,2017-04-18,Women,Clothing,1,309,32.445,341.445,e-Shop
 48484644344,272212,2017-06-24,Kids,Footwear,1,472,49.56,521.56,Brick and Mortar
+50104545984,272212,2018-06-19,Mens,Clothing,5,1468,770.7,8110.7,Brick and Mortar
 49486957217,272212,2018-12-13,Furnishing,Home and kitchen,1,348,36.54,384.54,TeleShop
 4239177822,272217,2016-02-05,Computers,Electronics,4,191,80.22,844.22,Brick and Mortar
 53863728778,272217,2016-09-04,Kids,Books,4,648,272.16,2864.16,e-Shop
@@ -12895,6 +12994,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 34224495171,272317,2016-05-28,Women,Bags,3,1248,393.12,4137.12,e-Shop
 34575261591,272317,2017-06-29,Home Decoratives,Home and kitchen,5,203,106.575,1121.575,TeleShop
 83865160239,272317,2017-09-23,Cameras,Electronics,1,591,62.055,653.055,TeleShop
+60713522913,272317,2018-05-06,Kids,Clothing,5,1475,774.375,8149.375,Brick and Mortar
 49628331863,272317,2018-07-27,Women,Clothing,4,152,63.84,671.84,e-Shop
 79025894902,272317,2018-12-28,Non-fiction,Books,3,1095,344.925,3629.925,e-Shop
 2950576318,272318,2016-10-15,Cameras,Electronics,3,1377,433.755,4564.755,Brick and Mortar
@@ -13122,6 +13222,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 52476908287,272404,2017-01-13,Kids,Footwear,1,139,14.595,153.595,e-Shop
 75082279170,272404,2017-04-10,Women,Footwear,3,1356,427.14,4495.14,e-Shop
 48567196102,272404,2018-10-25,Personal Appliances,Electronics,5,861,452.025,4757.025,e-Shop
+11910316794,272407,2017-08-10,Personal Appliances,Electronics,5,1473,773.325,8138.325,Brick and Mortar
 92044057515,272407,2018-12-18,Mens,Clothing,4,399,167.58,1763.58,TeleShop
 22949852168,272409,2016-06-03,Mobiles,Electronics,4,1348,566.16,5958.16,Brick and Mortar
 75285430169,272409,2016-11-16,Computers,Electronics,1,785,82.425,867.425,e-Shop
@@ -13859,6 +13960,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 71341225548,272683,2018-12-21,Cameras,Electronics,2,361,75.81,797.81,TeleShop
 91413390065,272684,2017-06-10,Audio and video,Electronics,1,454,47.67,501.67,Brick and Mortar
 44072885173,272684,2017-07-17,Bedding and Towels,Home and kitchen,3,951,299.565,3152.565,Brick and Mortar
+77653348250,272686,2016-04-18,Mens,Footwear,5,1459,765.975,8060.975,e-Shop
 66271330382,272686,2016-07-30,Kids,Books,2,1355,284.55,2994.55,Brick and Mortar
 33052033823,272686,2016-12-05,Furnishing,Home and kitchen,5,595,312.375,3287.375,e-Shop
 27751136549,272686,2017-10-02,Mobiles,Electronics,2,116,24.36,256.36,e-Shop
@@ -13972,6 +14074,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 59414393069,272731,2016-11-11,Home Decoratives,Home and kitchen,5,104,54.6,574.6,TeleShop
 46021032732,272731,2018-08-27,Women,Clothing,3,1292,406.98,4282.98,TeleShop
 48454217930,272731,2018-10-15,Kids,Books,5,681,357.525,3762.525,Brick and Mortar
+11385783562,272735,2016-05-06,Cameras,Electronics,5,1496,785.4,8265.4,Brick and Mortar
 10074127900,272735,2017-11-10,Women,Bags,2,1339,281.19,2959.19,Brick and Mortar
 95876346233,272735,2017-12-24,Bedding and Towels,Home and kitchen,1,1240,130.2,1370.2,Brick and Mortar
 36133642880,272736,2016-02-24,Kids,Books,3,173,54.495,573.495,e-Shop
@@ -14212,6 +14315,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 45746895568,272831,2017-06-22,Bedding and Towels,Home and kitchen,2,836,175.56,1847.56,e-Shop
 3814639298,272831,2017-10-10,Kids,Clothing,4,1267,532.14,5600.14,e-Shop
 13357168293,272832,2017-07-13,Academic,Books,2,129,27.09,285.09,e-Shop
+77339707309,272832,2017-09-02,Mens,Clothing,5,1493,783.825,8248.825,e-Shop
 67691278138,272833,2017-02-17,Women,Bags,1,1396,146.58,1542.58,TeleShop
 41998190363,272833,2018-03-21,Mens,Clothing,4,168,70.56,742.56,Brick and Mortar
 10771420570,272833,2018-10-01,Home Decoratives,Home and kitchen,5,983,516.075,5431.075,TeleShop
@@ -14299,6 +14403,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 16779367092,272870,2017-04-02,Computers,Electronics,1,700,73.5,773.5,e-Shop
 87175687386,272870,2017-04-30,Mens,Bags,1,174,18.27,192.27,TeleShop
 908931839,272870,2017-12-30,Kids,Footwear,2,1248,262.08,2758.08,Brick and Mortar
+80262862720,272871,2018-07-18,Electric appliances,Home and kitchen,5,1468,770.7,8110.7,Brick and Mortar
 452676785,272871,2018-11-04,Academic,Books,1,251,26.355,277.355,Brick and Mortar
 52790853935,272874,2016-07-27,Mobiles,Electronics,4,1447,607.74,6395.74,e-Shop
 14815508190,272874,2017-08-12,Women,Bags,3,339,106.785,1123.785,e-Shop
@@ -14323,6 +14428,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 47289432838,272882,2016-02-10,Mens,Bags,5,639,335.475,3530.475,Brick and Mortar
 76921391441,272882,2016-07-29,Cameras,Electronics,4,111,46.62,490.62,e-Shop
 95985174016,272882,2017-02-02,Personal Appliances,Electronics,4,654,274.68,2890.68,e-Shop
+15481980901,272882,2017-08-07,Mens,Clothing,5,1486,780.15,8210.15,e-Shop
 42495793977,272883,2016-05-08,Academic,Books,1,899,94.395,993.395,TeleShop
 41400824792,272883,2016-09-16,Furnishing,Home and kitchen,3,486,153.09,1611.09,e-Shop
 30298563656,272883,2016-11-27,Kids,Books,4,905,380.1,4000.1,Brick and Mortar
@@ -14497,6 +14603,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 55979067154,272953,2017-06-14,Women,Footwear,1,180,18.9,198.9,TeleShop
 3012778958,272953,2018-12-01,Kids,Footwear,1,1003,105.315,1108.315,e-Shop
 5116556684,272954,2017-03-29,Computers,Electronics,4,123,51.66,543.66,e-Shop
+53187031441,272954,2017-05-26,Furnishing,Home and kitchen,5,1500,787.5,8287.5,TeleShop
 33689313389,272954,2018-07-29,Home Decoratives,Home and kitchen,3,1121,353.115,3716.115,TeleShop
 68020509909,272954,2018-09-10,Furnishing,Home and kitchen,2,989,207.69,2185.69,e-Shop
 13271098036,272959,2017-11-30,Electric appliances,Home and kitchen,2,1322,277.62,2921.62,e-Shop
@@ -14702,6 +14809,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 81018721850,273053,2016-05-21,Cameras,Electronics,1,1377,144.585,1521.585,e-Shop
 28176791748,273053,2016-06-25,Women,Clothing,4,1305,548.1,5768.1,e-Shop
 99357900490,273053,2016-11-24,Cameras,Electronics,4,1093,459.06,4831.06,Brick and Mortar
+55043386500,273053,2017-09-20,Computers,Electronics,5,1488,781.2,8221.2,e-Shop
 99101251799,273053,2017-12-12,Cameras,Electronics,2,1352,283.92,2987.92,e-Shop
 29338317948,273053,2018-03-27,Personal Appliances,Electronics,3,460,144.9,1524.9,Brick and Mortar
 20684688889,273056,2017-04-13,Cameras,Electronics,3,1343,423.045,4452.045,Brick and Mortar
@@ -14736,6 +14844,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 41432380632,273075,2018-01-18,Fiction,Books,3,1344,423.36,4455.36,e-Shop
 70118186481,273076,2016-11-21,Kids,Books,1,1373,144.165,1517.165,e-Shop
 22010130693,273076,2017-03-06,Audio and video,Electronics,4,241,101.22,1065.22,e-Shop
+35447491388,273076,2018-09-24,Audio and video,Electronics,5,1499,786.975,8281.975,Brick and Mortar
 71821126616,273077,2016-12-17,Non-fiction,Books,1,849,89.145,938.145,Brick and Mortar
 41639189069,273077,2017-03-04,Computers,Electronics,4,1237,519.54,5467.54,e-Shop
 14096266074,273077,2017-09-20,Kids,Books,1,148,15.54,163.54,TeleShop
@@ -15224,6 +15333,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 10041748699,273280,2017-12-27,Academic,Books,1,183,19.215,202.215,e-Shop
 60416814232,273281,2016-02-18,Mens,Bags,4,202,84.84,892.84,Brick and Mortar
 16892285259,273285,2016-12-17,Kids,Books,3,1063,334.845,3523.845,e-Shop
+45459573063,273285,2018-06-19,Personal Appliances,Electronics,5,1460,766.5,8066.5,e-Shop
 62755953539,273285,2018-07-18,Kids,Books,4,1128,473.76,4985.76,Brick and Mortar
 94140878078,273286,2016-02-19,Mens,Clothing,1,101,10.605,111.605,e-Shop
 17888428570,273286,2016-12-22,Furnishing,Home and kitchen,4,214,89.88,945.88,TeleShop
@@ -15293,6 +15403,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 90682964713,273311,2017-06-28,Furnishing,Home and kitchen,2,646,135.66,1427.66,Brick and Mortar
 78610556490,273311,2017-10-12,Mens,Clothing,4,235,98.7,1038.7,e-Shop
 20404689455,273311,2017-12-03,Mens,Footwear,4,1262,530.04,5578.04,Brick and Mortar
+44885916189,273313,2017-03-24,Kids,Books,5,1456,764.4,8044.4,e-Shop
 69012999167,273313,2017-07-05,Mobiles,Electronics,1,1001,105.105,1106.105,TeleShop
 54636870485,273313,2017-09-10,Home Decoratives,Home and kitchen,3,939,295.785,3112.785,Brick and Mortar
 99450668722,273313,2018-07-01,Kids,Footwear,4,850,357.0,3757.0,e-Shop
@@ -15534,6 +15645,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 14998214527,273417,2017-03-28,Non-fiction,Books,4,1201,504.42,5308.42,e-Shop
 94549305137,273417,2017-08-06,Kids,Clothing,1,890,93.45,983.45,e-Shop
 44420547792,273417,2017-08-11,Mobiles,Electronics,2,1386,291.06,3063.06,Brick and Mortar
+58493517259,273417,2018-07-21,Fiction,Books,5,1463,768.075,8083.075,e-Shop
 66116846245,273420,2017-09-23,Computers,Electronics,1,538,56.49,594.49,e-Shop
 76683526413,273420,2018-09-12,Kids,Footwear,1,528,55.44,583.44,Brick and Mortar
 39452427125,273421,2016-04-08,DIY,Books,1,781,82.005,863.005,Brick and Mortar
@@ -15546,6 +15658,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 76535050886,273423,2017-04-21,Computers,Electronics,4,586,246.12,2590.12,TeleShop
 51866587167,273423,2017-12-23,Kids,Books,5,657,344.925,3629.925,e-Shop
 81853387406,273423,2018-05-18,Computers,Electronics,2,630,132.3,1392.3,e-Shop
+58101178207,273423,2018-08-12,Non-fiction,Books,5,1482,778.05,8188.05,Brick and Mortar
 60202318500,273426,2017-12-04,Academic,Books,2,996,209.16,2201.16,Brick and Mortar
 18286209869,273426,2018-07-16,Non-fiction,Books,3,393,123.795,1302.795,Brick and Mortar
 34192251593,273428,2016-03-16,Home Decoratives,Home and kitchen,2,1272,267.12,2811.12,e-Shop
@@ -15584,6 +15697,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 60429711724,273440,2018-11-18,Kids,Footwear,2,831,174.51,1836.51,Brick and Mortar
 85157914087,273442,2017-02-05,Kids,Footwear,2,1333,279.93,2945.93,e-Shop
 10250614970,273444,2016-03-13,Kids,Books,1,1165,122.325,1287.325,Brick and Mortar
+1671101568,273444,2016-12-28,Bedding and Towels,Home and kitchen,5,1471,772.275,8127.275,e-Shop
 82268632333,273444,2017-11-12,Home Decoratives,Home and kitchen,4,289,121.38,1277.38,e-Shop
 85587435209,273444,2018-02-18,Audio and video,Electronics,3,1205,379.575,3994.575,Brick and Mortar
 9705083440,273445,2016-11-04,Women,Clothing,2,247,51.87,545.87,Brick and Mortar
@@ -15664,6 +15778,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 43603207495,273481,2016-12-25,Mens,Bags,4,1427,599.34,6307.34,e-Shop
 36886091807,273481,2017-04-25,Home Decoratives,Home and kitchen,1,465,48.825,513.825,TeleShop
 4197062834,273481,2017-10-16,Women,Clothing,4,657,275.94,2903.94,Brick and Mortar
+39365914178,273481,2018-04-08,DIY,Books,5,1491,782.775,8237.775,Brick and Mortar
 66210242832,273481,2018-05-05,Kids,Footwear,3,924,291.06,3063.06,Brick and Mortar
 63136515211,273481,2018-05-09,Women,Bags,2,1232,258.72,2722.72,e-Shop
 49351874716,273481,2018-09-03,Computers,Electronics,4,1441,605.22,6369.22,TeleShop
@@ -15769,6 +15884,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 61444979277,273519,2018-10-23,Mens,Clothing,3,220,69.3,729.3,e-Shop
 19422756549,273520,2016-03-19,Electric appliances,Home and kitchen,5,343,180.075,1895.075,Brick and Mortar
 85222939863,273520,2016-05-09,Computers,Electronics,1,967,101.535,1068.535,e-Shop
+80216773693,273521,2016-02-15,Electric appliances,Home and kitchen,5,1472,772.8,8132.8,e-Shop
 59236365515,273521,2017-07-17,Non-fiction,Books,4,686,288.12,3032.12,TeleShop
 62008658770,273521,2017-09-27,Furnishing,Home and kitchen,1,566,59.43,625.43,Brick and Mortar
 80708718362,273521,2018-09-09,Academic,Books,3,1479,465.885,4902.885,e-Shop
@@ -15948,6 +16064,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 54849893000,273596,2018-01-08,Women,Bags,1,293,30.765,323.765,e-Shop
 45026699183,273596,2018-04-10,Kids,Clothing,1,298,31.29,329.29,Brick and Mortar
 53001266520,273598,2016-03-22,DIY,Books,4,790,331.8,3491.8,e-Shop
+12783232733,273598,2016-11-17,Academic,Books,5,1497,785.925,8270.925,e-Shop
 61987958211,273598,2018-07-08,Women,Bags,3,669,210.735,2217.735,Brick and Mortar
 13131735754,273599,2016-07-03,Kids,Books,1,1139,119.595,1258.595,e-Shop
 40407921739,273599,2016-08-06,Electric appliances,Home and kitchen,2,810,170.1,1790.1,e-Shop
@@ -15958,6 +16075,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 32207223462,273599,2018-11-12,Kids,Books,5,525,275.625,2900.625,TeleShop
 87460321727,273600,2016-03-25,Electric appliances,Home and kitchen,5,1072,562.8,5922.8,TeleShop
 29431702648,273600,2016-05-07,Personal Appliances,Electronics,2,661,138.81,1460.81,TeleShop
+35671735739,273600,2016-06-09,Computers,Electronics,5,1459,765.975,8060.975,TeleShop
 11242278052,273600,2016-11-04,Mens,Bags,3,432,136.08,1432.08,Brick and Mortar
 47985478255,273600,2016-11-26,Kids,Clothing,5,594,311.85,3281.85,Brick and Mortar
 6096235899,273600,2018-02-09,Mens,Bags,2,695,145.95,1535.95,Brick and Mortar
@@ -15978,6 +16096,8 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 92222446561,273610,2016-10-16,Audio and video,Electronics,2,939,197.19,2075.19,Brick and Mortar
 91449563268,273612,2017-07-29,Electric appliances,Home and kitchen,1,880,92.4,972.4,e-Shop
 43723540128,273612,2018-02-08,Fiction,Books,4,1234,518.28,5454.28,e-Shop
+15386473197,273612,2018-04-13,Bedding and Towels,Home and kitchen,5,1496,785.4,8265.4,TeleShop
+65566320939,273613,2017-06-08,Mobiles,Electronics,5,1451,761.775,8016.775,Brick and Mortar
 44419342965,273615,2018-05-13,Electric appliances,Home and kitchen,4,1358,570.36,6002.36,TeleShop
 12765080491,273615,2018-05-13,Mens,Bags,4,948,398.16,4190.16,Brick and Mortar
 60617593129,273615,2018-08-07,Furnishing,Home and kitchen,3,1405,442.575,4657.575,Brick and Mortar
@@ -16417,6 +16537,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 46055145691,273811,2018-06-18,Mens,Footwear,4,963,404.46,4256.46,Brick and Mortar
 46185201526,273813,2016-05-15,Home Decoratives,Home and kitchen,3,1223,385.245,4054.245,e-Shop
 42891752121,273813,2018-01-18,Academic,Books,1,620,65.1,685.1,Brick and Mortar
+3766798065,273813,2018-07-02,Personal Appliances,Electronics,5,1483,778.575,8193.575,e-Shop
 82446335913,273814,2018-10-17,Mobiles,Electronics,1,874,91.77,965.77,TeleShop
 9497527510,273815,2017-10-09,Kids,Clothing,3,194,61.11,643.11,e-Shop
 77153957995,273815,2018-11-05,Furnishing,Home and kitchen,5,352,184.8,1944.8,Brick and Mortar
@@ -16449,6 +16570,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 93698335195,273828,2016-10-21,Computers,Electronics,3,915,288.225,3033.225,Brick and Mortar
 99343674464,273828,2017-02-05,Kids,Books,2,668,140.28,1476.28,Brick and Mortar
 93875861406,273828,2017-04-30,Mens,Bags,3,489,154.035,1621.035,TeleShop
+41246792188,273828,2017-05-22,DIY,Books,5,1477,775.425,8160.425,e-Shop
 65255895846,273829,2016-07-16,Cameras,Electronics,5,198,103.95,1093.95,e-Shop
 82433782470,273829,2016-10-31,Kids,Footwear,5,1299,681.975,7176.975,Brick and Mortar
 58277929900,273829,2017-01-30,Cameras,Electronics,3,603,189.945,1998.945,Brick and Mortar
@@ -16695,6 +16817,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 55687277103,273930,2017-11-04,Cameras,Electronics,4,183,76.86,808.86,e-Shop
 36557575535,273930,2018-05-14,Personal Appliances,Electronics,3,993,312.795,3291.795,TeleShop
 32173092213,273930,2018-11-28,Kids,Books,3,885,278.775,2933.775,Brick and Mortar
+57392232384,273931,2017-06-26,Cameras,Electronics,5,1478,775.95,8165.95,Brick and Mortar
 33762870289,273931,2018-09-28,Women,Footwear,4,1483,622.86,6554.86,TeleShop
 11263177292,273931,2018-10-21,Kids,Footwear,5,1204,632.1,6652.1,Brick and Mortar
 33974436928,273931,2018-12-16,Mens,Footwear,3,558,175.77,1849.77,TeleShop
@@ -16966,6 +17089,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 34326183436,274054,2017-10-18,Personal Appliances,Electronics,2,826,173.46,1825.46,e-Shop
 41242895488,274055,2016-06-14,Mens,Clothing,2,112,23.52,247.52,e-Shop
 3052276663,274055,2016-06-16,Non-fiction,Books,4,565,237.3,2497.3,Brick and Mortar
+11065779960,274055,2016-07-19,Mens,Bags,5,1499,786.975,8281.975,Brick and Mortar
 68133158092,274055,2017-02-12,Women,Clothing,4,1134,476.28,5012.28,TeleShop
 24110639348,274055,2017-12-15,Mobiles,Electronics,2,848,178.08,1874.08,Brick and Mortar
 16280405241,274055,2018-04-11,Kids,Books,3,157,49.455,520.455,TeleShop
@@ -16996,11 +17120,13 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 59855501267,274066,2016-02-25,Furnishing,Home and kitchen,1,1197,125.685,1322.685,e-Shop
 6332611145,274066,2016-03-16,Cameras,Electronics,1,1044,109.62,1153.62,Brick and Mortar
 72570588521,274066,2016-09-10,Bedding and Towels,Home and kitchen,5,666,349.65,3679.65,Brick and Mortar
+10709960133,274066,2017-11-22,Kids,Books,5,1496,785.4,8265.4,Brick and Mortar
 38110368883,274066,2018-05-03,Women,Clothing,5,1239,650.475,6845.475,Brick and Mortar
 36884167184,274068,2017-11-10,Computers,Electronics,1,494,51.87,545.87,Brick and Mortar
 91178958470,274068,2018-09-03,Electric appliances,Home and kitchen,2,85,17.85,187.85,e-Shop
 6423977497,274068,2018-09-15,Women,Footwear,3,778,245.07,2579.07,Brick and Mortar
 42488077947,274069,2016-03-08,Kids,Footwear,3,541,170.415,1793.415,Brick and Mortar
+2384588318,274069,2016-07-27,Computers,Electronics,5,1472,772.8,8132.8,e-Shop
 55711112728,274069,2018-06-19,Audio and video,Electronics,3,1484,467.46,4919.46,Brick and Mortar
 19882725179,274071,2016-02-21,Kids,Books,5,662,347.55,3657.55,Brick and Mortar
 64573058212,274071,2016-05-15,Women,Footwear,1,1470,154.35,1624.35,e-Shop
@@ -17245,6 +17371,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 99117489480,274176,2018-06-30,Mens,Bags,3,282,88.83,934.83,Brick and Mortar
 29199436173,274177,2016-03-04,Mobiles,Electronics,4,263,110.46,1162.46,TeleShop
 89804199909,274177,2018-01-27,Electric appliances,Home and kitchen,2,1451,304.71,3206.71,e-Shop
+70205672373,274177,2018-05-13,Bedding and Towels,Home and kitchen,5,1452,762.3,8022.3,e-Shop
 93989593428,274180,2016-09-25,Bedding and Towels,Home and kitchen,3,372,117.18,1233.18,e-Shop
 41018579732,274180,2018-03-14,DIY,Books,1,782,82.11,864.11,TeleShop
 4476012556,274180,2018-06-06,Women,Footwear,5,635,333.375,3508.375,e-Shop
@@ -17361,6 +17488,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 57696927467,274227,2017-03-31,Mens,Bags,3,396,124.74,1312.74,TeleShop
 42722308790,274227,2018-07-03,Kids,Clothing,4,472,198.24,2086.24,Brick and Mortar
 43864280836,274227,2018-07-10,Kids,Footwear,4,942,395.64,4163.64,e-Shop
+16985543391,274227,2018-12-14,Audio and video,Electronics,5,1489,781.725,8226.725,Brick and Mortar
 51991831845,274229,2016-02-12,Non-fiction,Books,1,269,28.245,297.245,e-Shop
 11697840339,274229,2017-02-08,Women,Bags,2,367,77.07,811.07,e-Shop
 78857128027,274229,2017-09-02,Kids,Footwear,4,601,252.42,2656.42,Brick and Mortar
@@ -17429,6 +17557,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 77187940529,274261,2016-04-17,Audio and video,Electronics,5,826,433.65,4563.65,e-Shop
 47460687961,274261,2016-04-24,Bedding and Towels,Home and kitchen,4,118,49.56,521.56,TeleShop
 65986579836,274261,2018-03-20,Academic,Books,3,106,33.39,351.39,e-Shop
+2884665309,274263,2016-03-26,Kids,Clothing,5,1485,779.625,8204.625,Brick and Mortar
 64219133252,274264,2016-12-02,Mens,Footwear,2,1441,302.61,3184.61,e-Shop
 74032833970,274264,2016-12-17,Mobiles,Electronics,1,188,19.74,207.74,Brick and Mortar
 38610761017,274264,2018-07-07,Kids,Books,5,701,368.025,3873.025,Brick and Mortar
@@ -17665,6 +17794,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 82646898028,274364,2018-01-15,Furnishing,Home and kitchen,2,951,199.71,2101.71,Brick and Mortar
 83689608075,274364,2018-06-30,Electric appliances,Home and kitchen,5,1282,673.05,7083.05,e-Shop
 61409536582,274365,2016-11-14,Kids,Footwear,5,231,121.275,1276.275,TeleShop
+86661340759,274365,2017-10-20,Bedding and Towels,Home and kitchen,5,1473,773.325,8138.325,Brick and Mortar
 7220823138,274365,2017-11-24,Mens,Bags,2,214,44.94,472.94,TeleShop
 36004814838,274366,2017-06-19,Non-fiction,Books,2,718,150.78,1586.78,e-Shop
 54100679171,274366,2018-03-23,Women,Footwear,2,1166,244.86,2576.86,Brick and Mortar
@@ -17676,6 +17806,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 52052966139,274367,2018-06-16,Home Decoratives,Home and kitchen,1,714,74.97,788.97,e-Shop
 6878976004,274369,2016-03-18,Cameras,Electronics,4,535,224.7,2364.7,e-Shop
 21089246759,274369,2016-05-26,Mobiles,Electronics,1,709,74.445,783.445,Brick and Mortar
+14236362765,274369,2017-08-14,Kids,Footwear,5,1483,778.575,8193.575,e-Shop
 91764963780,274370,2017-05-11,Bedding and Towels,Home and kitchen,4,973,408.66,4300.66,Brick and Mortar
 27307867365,274370,2017-07-05,Cameras,Electronics,4,1397,586.74,6174.74,e-Shop
 53700279425,274370,2018-10-06,Furnishing,Home and kitchen,5,1045,548.625,5773.625,e-Shop
@@ -17964,6 +18095,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 9791977554,274489,2017-05-15,Electric appliances,Home and kitchen,1,1274,133.77,1407.77,Brick and Mortar
 58887023484,274489,2017-06-11,Fiction,Books,4,879,369.18,3885.18,Brick and Mortar
 1723212765,274489,2017-08-30,DIY,Books,1,179,18.795,197.795,TeleShop
+2860767067,274489,2018-07-02,Personal Appliances,Electronics,5,1459,765.975,8060.975,e-Shop
 52268174866,274490,2017-06-14,Women,Clothing,1,641,67.305,708.305,TeleShop
 91768022281,274490,2017-09-04,Computers,Electronics,5,421,221.025,2326.025,e-Shop
 525041466,274490,2018-10-10,DIY,Books,3,1482,466.83,4912.83,TeleShop
@@ -18019,6 +18151,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 11681757460,274512,2017-11-01,Home Decoratives,Home and kitchen,1,439,46.095,485.095,TeleShop
 97303651732,274512,2018-01-31,Mens,Footwear,2,662,139.02,1463.02,e-Shop
 25278801480,274512,2018-06-25,Kids,Books,3,426,134.19,1412.19,Brick and Mortar
+77453558060,274512,2018-09-01,Electric appliances,Home and kitchen,5,1485,779.625,8204.625,e-Shop
 85556141581,274515,2016-09-23,Computers,Electronics,1,683,71.715,754.715,Brick and Mortar
 20360014384,274515,2017-05-15,Kids,Books,2,445,93.45,983.45,e-Shop
 76005292862,274517,2016-08-17,Kids,Books,1,717,75.285,792.285,TeleShop
@@ -18632,6 +18765,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 80136271183,274778,2018-10-31,Computers,Electronics,5,1432,751.8,7911.8,Brick and Mortar
 93408630572,274780,2017-04-27,Women,Bags,4,1259,528.78,5564.78,e-Shop
 44769399779,274780,2018-01-02,Kids,Books,3,1043,328.545,3457.545,e-Shop
+92874142137,274780,2018-11-11,Women,Clothing,5,1496,785.4,8265.4,e-Shop
 48739179495,274782,2016-04-06,Cameras,Electronics,1,127,13.335,140.335,e-Shop
 56723789688,274782,2017-04-11,Kids,Footwear,5,567,297.675,3132.675,e-Shop
 64051139108,274782,2018-04-27,Women,Clothing,3,270,85.05,895.05,Brick and Mortar
@@ -18687,6 +18821,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 59347249270,274798,2017-06-23,Furnishing,Home and kitchen,1,1229,129.045,1358.045,e-Shop
 45200790320,274798,2017-11-10,Mobiles,Electronics,4,461,193.62,2037.62,Brick and Mortar
 4663047564,274799,2016-03-20,Cameras,Electronics,3,1186,373.59,3931.59,e-Shop
+14493991692,274801,2016-09-19,Women,Clothing,5,1492,783.3,8243.3,TeleShop
 82288790509,274801,2017-09-11,Mobiles,Electronics,5,266,139.65,1469.65,Brick and Mortar
 49280709763,274801,2017-10-11,Bedding and Towels,Home and kitchen,5,1200,630.0,6630.0,Brick and Mortar
 81679113329,274801,2018-05-05,Fiction,Books,1,1043,109.515,1152.515,e-Shop
@@ -18826,8 +18961,10 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 81561369149,274852,2017-07-06,Mens,Bags,2,768,161.28,1697.28,e-Shop
 57289563608,274853,2016-02-02,Kids,Books,1,630,66.15,696.15,Brick and Mortar
 86604208122,274853,2016-09-02,Fiction,Books,2,1273,267.33,2813.33,e-Shop
+42361801738,274853,2018-06-02,Women,Clothing,5,1477,775.425,8160.425,Brick and Mortar
 89427579336,274853,2018-11-04,Kids,Books,4,645,270.9,2850.9,TeleShop
 85867032160,274854,2016-01-09,Mens,Clothing,1,183,19.215,202.215,Brick and Mortar
+96892547017,274854,2016-06-21,Kids,Footwear,5,1500,787.5,8287.5,e-Shop
 21269588634,274854,2016-07-23,Furnishing,Home and kitchen,4,558,234.36,2466.36,e-Shop
 24796368146,274854,2016-11-06,Cameras,Electronics,5,286,150.15,1580.15,e-Shop
 38285926758,274854,2017-02-12,Audio and video,Electronics,4,514,215.88,2271.88,e-Shop
@@ -19041,6 +19178,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 62735006471,274948,2018-03-13,Computers,Electronics,3,357,112.455,1183.455,Brick and Mortar
 96036388297,274948,2018-04-19,Cameras,Electronics,5,983,516.075,5431.075,e-Shop
 12150266022,274948,2018-05-12,Non-fiction,Books,3,882,277.83,2923.83,e-Shop
+11309096338,274948,2018-07-02,Cameras,Electronics,5,1456,764.4,8044.4,e-Shop
 91689408699,274952,2016-02-18,Kids,Clothing,3,1340,422.1,4442.1,e-Shop
 54499307667,274952,2017-01-25,Kids,Footwear,3,1474,464.31,4886.31,e-Shop
 96506596220,274952,2017-05-15,Bedding and Towels,Home and kitchen,1,1064,111.72,1175.72,e-Shop
@@ -19065,6 +19203,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 29706701777,274956,2018-06-09,Kids,Clothing,4,1293,543.06,5715.06,TeleShop
 70997907379,274956,2018-11-13,Women,Clothing,4,1352,567.84,5975.84,e-Shop
 12529724039,274959,2016-12-13,Mens,Clothing,4,306,128.52,1352.52,e-Shop
+88980671105,274959,2017-04-08,Kids,Books,5,1465,769.125,8094.125,Brick and Mortar
 51422201546,274959,2017-04-24,Kids,Books,4,642,269.64,2837.64,Brick and Mortar
 89701436,274960,2016-02-04,Fiction,Books,4,1111,466.62,4910.62,e-Shop
 69193141020,274960,2016-03-07,Computers,Electronics,1,845,88.725,933.725,TeleShop
@@ -19223,6 +19362,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 64516958314,275030,2016-08-07,DIY,Books,2,1229,258.09,2716.09,Brick and Mortar
 33027760892,275030,2016-08-16,Audio and video,Electronics,4,193,81.06,853.06,Brick and Mortar
 68645764660,275030,2016-10-03,Computers,Electronics,3,1285,404.775,4259.775,e-Shop
+33555566766,275030,2016-10-25,Kids,Footwear,5,1493,783.825,8248.825,Brick and Mortar
 25364328005,275030,2017-05-18,Mens,Bags,4,974,409.08,4305.08,e-Shop
 55922263464,275030,2017-08-06,Mens,Bags,2,956,200.76,2112.76,Brick and Mortar
 42624471605,275031,2016-05-28,Kids,Books,1,1346,141.33,1487.33,e-Shop
@@ -19261,6 +19401,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 97076302174,275042,2017-10-27,Women,Footwear,3,1410,444.15,4674.15,e-Shop
 83056090298,275042,2018-07-19,Academic,Books,1,233,24.465,257.465,Brick and Mortar
 36056589572,275043,2017-02-24,Kids,Clothing,2,1226,257.46,2709.46,e-Shop
+90647756252,275043,2018-09-09,Kids,Footwear,5,1489,781.725,8226.725,TeleShop
 75930016106,275043,2018-12-27,Kids,Books,5,1214,637.35,6707.35,TeleShop
 98648016431,275044,2016-04-03,Kids,Footwear,4,321,134.82,1418.82,e-Shop
 73371869460,275044,2016-09-04,Electric appliances,Home and kitchen,4,1176,493.92,5197.92,Brick and Mortar
@@ -19334,6 +19475,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 23124429110,275072,2016-02-09,Computers,Electronics,4,1375,577.5,6077.5,TeleShop
 9343186805,275072,2016-10-15,Women,Bags,3,400,126.0,1326.0,Brick and Mortar
 31494713399,275072,2018-07-07,Furnishing,Home and kitchen,4,1135,476.7,5016.7,e-Shop
+63169731055,275073,2016-08-22,Kids,Clothing,5,1468,770.7,8110.7,e-Shop
 25280238729,275073,2016-11-13,Computers,Electronics,3,859,270.585,2847.585,Brick and Mortar
 23898144110,275073,2017-05-26,Mens,Bags,3,875,275.625,2900.625,Brick and Mortar
 73780519626,275073,2018-03-17,Women,Footwear,3,917,288.855,3039.855,Brick and Mortar
@@ -19382,6 +19524,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 99010023872,275089,2016-12-30,Personal Appliances,Electronics,1,906,95.13,1001.13,e-Shop
 48193283135,275089,2017-05-23,Personal Appliances,Electronics,2,316,66.36,698.36,Brick and Mortar
 27935050233,275089,2017-07-28,Bedding and Towels,Home and kitchen,3,1099,346.185,3643.185,e-Shop
+5914421333,275089,2017-10-21,Personal Appliances,Electronics,5,1486,780.15,8210.15,e-Shop
 17524250201,275089,2018-03-26,Fiction,Books,3,927,292.005,3073.005,Brick and Mortar
 18521019738,275090,2016-01-30,Bedding and Towels,Home and kitchen,2,825,173.25,1823.25,Brick and Mortar
 29395949451,275090,2016-10-02,Academic,Books,3,815,256.725,2701.725,Brick and Mortar
@@ -19414,6 +19557,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 25955625656,275104,2016-06-22,Kids,Clothing,3,929,292.635,3079.635,e-Shop
 79964512856,275104,2017-03-22,Kids,Books,3,1468,462.42,4866.42,e-Shop
 53431626575,275107,2016-03-05,Mens,Footwear,5,898,471.45,4961.45,Brick and Mortar
+66975950416,275107,2017-07-23,Bedding and Towels,Home and kitchen,5,1483,778.575,8193.575,TeleShop
 81436625743,275108,2017-02-16,Cameras,Electronics,4,516,216.72,2280.72,Brick and Mortar
 28225110638,275108,2017-03-01,Mens,Clothing,5,337,176.925,1861.925,e-Shop
 32524212369,275108,2018-04-27,Personal Appliances,Electronics,5,699,366.975,3861.975,Brick and Mortar
@@ -19510,6 +19654,7 @@ Invoice_id,Cust_id,Txn_date,Product_Sub_category,Product_Category,Qty,Rate,Tax,T
 8906269309,275150,2017-01-14,Mens,Footwear,5,1212,636.3,6696.3,e-Shop
 28241482606,275151,2016-06-27,Home Decoratives,Home and kitchen,2,1068,224.28,2360.28,Brick and Mortar
 61190023282,275151,2017-08-21,Electric appliances,Home and kitchen,2,651,136.71,1438.71,Brick and Mortar
+87545241767,275151,2018-05-14,Fiction,Books,5,1456,764.4,8044.4,Brick and Mortar
 34218980016,275151,2018-05-15,Home Decoratives,Home and kitchen,5,86,45.15,475.15,e-Shop
 73109425404,275152,2016-03-25,Fiction,Books,2,464,97.44,1025.44,e-Shop
 99800435671,275152,2017-11-22,Mens,Bags,5,842,442.05,4652.05,Brick and Mortar
